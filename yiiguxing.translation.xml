@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="insufficient" />
       <item value="thin" />
       <item value="The Connection descriptor used by the client was:" />
       <item value="facet" />
@@ -50,12 +51,11 @@
       <item value="disabled" />
       <item value="stored" />
       <item value="expected" />
-      <item value="strategy" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="164" />
-        <entry key="ENGLISH" value="164" />
+        <entry key="ENGLISH" value="165" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
