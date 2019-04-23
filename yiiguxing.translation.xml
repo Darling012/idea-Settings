@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TRADEPS" />
+      <item value="TELTRADEPS" />
       <item value="insufficient" />
       <item value="thin" />
       <item value="The Connection descriptor used by the client was:" />
@@ -49,16 +51,15 @@
       <item value="reports" />
       <item value="inspection" />
       <item value="disabled" />
-      <item value="stored" />
-      <item value="expected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="164" />
-        <entry key="ENGLISH" value="165" />
+        <entry key="CHINESE" value="166" />
+        <entry key="ENGLISH" value="166" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
   </component>
