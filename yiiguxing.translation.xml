@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cancel" />
+      <item value="撤销" />
+      <item value="cancle" />
       <item value="延期" />
       <item value="原因" />
       <item value="reasion" />
@@ -48,14 +51,11 @@
       <item value="detect" />
       <item value="suppress" />
       <item value="statis" />
-      <item value="matches" />
-      <item value="ambiguous" />
-      <item value="Darling" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="167" />
-        <entry key="ENGLISH" value="168" />
+        <entry key="CHINESE" value="169" />
+        <entry key="ENGLISH" value="170" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
