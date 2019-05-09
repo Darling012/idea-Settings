@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="detec" />
       <item value="Resolver" />
       <item value="Resolve the given view name into a View object (to be rendered)" />
       <item value="given" />
@@ -50,12 +51,11 @@
       <item value="Ensure" />
       <item value="otherwise" />
       <item value="optimize" />
-      <item value="optmise" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="176" />
-        <entry key="ENGLISH" value="176" />
+        <entry key="ENGLISH" value="177" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
