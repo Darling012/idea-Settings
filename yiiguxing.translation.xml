@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="otherwise" />
+      <item value="sections" />
+      <item value="deploying" />
       <item value="execution" />
       <item value="排除" />
       <item value="expected" />
@@ -48,14 +51,11 @@
       <item value="Aware" />
       <item value="Delegate" />
       <item value="Candidate" />
-      <item value="through" />
-      <item value="notify" />
-      <item value="actually" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="181" />
+        <entry key="ENGLISH" value="182" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
