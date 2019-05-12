@@ -1,42 +1,6 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="otherwise" />
-      <item value="sections" />
-      <item value="deploying" />
-      <item value="execution" />
-      <item value="排除" />
-      <item value="expected" />
-      <item value="detec" />
-      <item value="Resolver" />
-      <item value="Resolve the given view name into a View object (to be rendered)" />
-      <item value="given" />
-      <item value="Actually" />
-      <item value="handled" />
-      <item value="obtained" />
-      <item value="actual" />
-      <item value="临时" />
-      <item value=" 模板" />
-      <item value="cancel" />
-      <item value="撤销" />
-      <item value="cancle" />
-      <item value="延期" />
-      <item value="原因" />
-      <item value="reasion" />
-      <item value="invalid" />
-      <item value="作废" />
-      <item value="TRADEPS" />
-      <item value="TELTRADEPS" />
-      <item value="insufficient" />
-      <item value="thin" />
-      <item value="The Connection descriptor used by the client was:" />
-      <item value="facet" />
-      <item value="extract" />
-      <item value="exclude" />
-      <item value="nested" />
-      <item value="metadata" />
-      <item value="internal" />
-      <item value="enterprise" />
       <item value="caret" />
       <item value="prevented" />
       <item value="june" />
@@ -51,16 +15,50 @@
       <item value="Aware" />
       <item value="Delegate" />
       <item value="Candidate" />
+      <item value="through" />
+      <item value="notify" />
+      <item value="actually" />
+      <item value="Ensure" />
+      <item value="otherwise" />
+      <item value="optimize" />
+      <item value="optmise" />
+      <item value="access" />
+      <item value="arbitrary" />
+      <item value="which is bound to the" />
+      <item value="bound" />
+      <item value="delegate" />
+      <item value="deletage " />
+      <item value="detect" />
+      <item value="suppress" />
+      <item value="statis" />
+      <item value="matches" />
+      <item value="ambiguous" />
+      <item value="Darling" />
+      <item value="comments" />
+      <item value="belong" />
+      <item value="reports" />
+      <item value="inspection" />
+      <item value="disabled" />
+      <item value="stored" />
+      <item value="expected" />
+      <item value="strategy" />
+      <item value="suspicious" />
+      <item value="feat" />
+      <item value="rebase" />
+      <item value="rabase" />
+      <item value="invalid" />
+      <item value="members" />
+      <item value="abnormal" />
+      <item value="injections" />
+      <item value="managed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="181" />
-        <entry key="ENGLISH" value="182" />
+        <entry key="CHINESE" value="162" />
+        <entry key="ENGLISH" value="162" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
-        <entry key="PORTUGUESE" value="1" />
-        <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
