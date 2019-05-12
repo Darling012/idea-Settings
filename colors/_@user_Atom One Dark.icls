@@ -4,7 +4,7 @@
     <property name="created">2019-03-30T23:04:10</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-05-12T23:52:32</property>
+    <property name="modified">2019-05-12T23:55:57</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2331,7 +2331,7 @@
     </option>
     <option name="MT_DIRECTORIES">
       <value>
-        <option name="FOREGROUND" value="abb2bf" />
+        <option name="FOREGROUND" value="5bf24" />
         <option name="BACKGROUND" value="9ac6" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
