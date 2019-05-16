@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ability" />
       <item value="Charge" />
       <item value="Illegal" />
       <item value="required" />
@@ -50,12 +51,11 @@
       <item value="actually" />
       <item value="Ensure" />
       <item value="otherwise" />
-      <item value="optimize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="184" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="CHINESE" value="185" />
+        <entry key="ENGLISH" value="186" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
