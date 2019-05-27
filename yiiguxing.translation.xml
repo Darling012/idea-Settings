@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="excluded" />
       <item value="Present" />
       <item value="Over the last 147 days JRebel prevented" />
       <item value="prevented" />
@@ -50,12 +51,11 @@
       <item value="caret" />
       <item value="june" />
       <item value="coverage" />
-      <item value="coveragt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="197" />
-        <entry key="ENGLISH" value="198" />
+        <entry key="CHINESE" value="198" />
+        <entry key="ENGLISH" value="199" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
