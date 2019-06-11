@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot instantiate boot.Start$JerseyConfig class. Instantiation of non-static member classes is not supported." />
+      <item value="Instantiation of non-static member classes is not supported." />
+      <item value="member" />
+      <item value="instantiate" />
+      <item value="No Such Method Exception" />
       <item value="Consider revisiting the entries above or defining a bean of" />
       <item value="entries" />
       <item value="revisiting" />
@@ -46,16 +51,11 @@
       <item value="terminal" />
       <item value="Otherwise" />
       <item value="Inflector" />
-      <item value="extract" />
-      <item value="extract Inflector" />
-      <item value="A stage-related collection of utility methods" />
-      <item value="stage" />
-      <item value="utility" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="211" />
-        <entry key="ENGLISH" value="212" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="217" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
