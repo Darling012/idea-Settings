@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="clazz.is Member Class()" />
+      <item value="clazz.is Local Class()" />
       <item value="Cannot instantiate boot.Start$JerseyConfig class. Instantiation of non-static member classes is not supported." />
       <item value="Instantiation of non-static member classes is not supported." />
       <item value="member" />
@@ -49,13 +51,11 @@
       <item value="available" />
       <item value="apply" />
       <item value="terminal" />
-      <item value="Otherwise" />
-      <item value="Inflector" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="216" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="219" />
+        <entry key="ENGLISH" value="220" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
