@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Consider revisiting the entries above or defining a bean of" />
+      <item value="entries" />
+      <item value="revisiting" />
+      <item value="Consider" />
+      <item value="enabled" />
       <item value="post" />
       <item value="Non-matching listeners get excluded early" />
       <item value="Multicaster" />
@@ -46,16 +51,11 @@
       <item value="A stage-related collection of utility methods" />
       <item value="stage" />
       <item value="utility" />
-      <item value="fix" />
-      <item value="补缴" />
-      <item value="补交" />
-      <item value="修复" />
-      <item value="补救" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="207" />
-        <entry key="ENGLISH" value="207" />
+        <entry key="CHINESE" value="211" />
+        <entry key="ENGLISH" value="212" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
