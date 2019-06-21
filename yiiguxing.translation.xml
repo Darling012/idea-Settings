@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="internal" />
       <item value="Illegal" />
       <item value="gateway" />
       <item value="Establishing SSL connection without server's identity verification is not recommended" />
@@ -50,12 +51,11 @@
       <item value="white" />
       <item value="yellow" />
       <item value="blue" />
-      <item value="duplicate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="227" />
-        <entry key="ENGLISH" value="228" />
+        <entry key="CHINESE" value="228" />
+        <entry key="ENGLISH" value="229" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
