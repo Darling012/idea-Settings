@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Concrete" />
+      <item value="Concrete Target" />
       <item value="seat" />
       <item value="装饰" />
       <item value="ingredient" />
@@ -49,13 +51,11 @@
       <item value="Over the last 147 days JRebel prevented" />
       <item value="prevented" />
       <item value="feed" />
-      <item value="feedback" />
-      <item value="specify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="233" />
-        <entry key="ENGLISH" value="234" />
+        <entry key="CHINESE" value="235" />
+        <entry key="ENGLISH" value="236" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
