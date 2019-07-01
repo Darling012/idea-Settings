@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="收入" />
       <item value="情况" />
       <item value="charge" />
       <item value="Rate" />
@@ -50,7 +51,6 @@
       <item value="Multicaster" />
       <item value="gather" />
       <item value="Candidate" />
-      <item value="fill" />
     </histories>
     <option name="languageScores">
       <map>
