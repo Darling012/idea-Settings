@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rate" />
       <item value="Anlize" />
       <item value="分析" />
       <item value="saveall" />
@@ -50,7 +51,6 @@
       <item value="Extension" />
       <item value="conflict" />
       <item value="Availablelots" />
-      <item value="availablelots" />
     </histories>
     <option name="languageScores">
       <map>
