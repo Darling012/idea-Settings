@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="筛选" />
       <item value="Occupancy" />
       <item value="收入" />
       <item value="情况" />
@@ -50,7 +51,6 @@
       <item value="post" />
       <item value="Non-matching listeners get excluded early" />
       <item value="Multicaster" />
-      <item value="gather" />
     </histories>
     <option name="languageScores">
       <map>
