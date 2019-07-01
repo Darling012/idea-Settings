@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Anlize" />
+      <item value="分析" />
       <item value="saveall" />
       <item value="encode" />
       <item value="Credible" />
@@ -49,15 +51,14 @@
       <item value="conflict" />
       <item value="Availablelots" />
       <item value="availablelots" />
-      <item value="negative" />
-      <item value="Internal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="240" />
-        <entry key="ENGLISH" value="240" />
+        <entry key="CHINESE" value="241" />
+        <entry key="ENGLISH" value="241" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
+        <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
