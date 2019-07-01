@@ -52,7 +52,12 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="vi" value="private Integer $END$" description="private int" toReformat="false" toShortenFQNames="true">
+  <template name="vi" value="private Integer $END$" description="private Integer" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="vf" value="private Float $END$" description="private Float" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
