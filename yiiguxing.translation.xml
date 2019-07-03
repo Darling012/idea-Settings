@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Operation" />
       <item value="Allocate" />
       <item value="total" />
       <item value="Ranking" />
@@ -50,12 +51,11 @@
       <item value="Thread.current Thread()" />
       <item value="invalid" />
       <item value="consumed" />
-      <item value="signable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="251" />
-        <entry key="ENGLISH" value="252" />
+        <entry key="CHINESE" value="252" />
+        <entry key="ENGLISH" value="253" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
