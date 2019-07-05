@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="进场" />
       <item value="situation" />
+      <item value="状况" />
       <item value="情况" />
+      <item value="进场" />
       <item value="parking Lot" />
       <item value="parkinglot" />
       <item value="Parking" />
@@ -50,11 +51,10 @@
       <item value="inzzaingredient" />
       <item value="preview" />
       <item value="creational" />
-      <item value="strategy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="261" />
+        <entry key="CHINESE" value="262" />
         <entry key="ENGLISH" value="262" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
