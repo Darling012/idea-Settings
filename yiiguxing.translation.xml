@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="预约" />
+      <item value="地锁" />
+      <item value="exit" />
+      <item value="entrance" />
+      <item value="Sequence" />
       <item value="situation" />
       <item value="状况" />
       <item value="情况" />
@@ -46,16 +51,11 @@
       <item value="Concrete" />
       <item value="Concrete Target" />
       <item value="seat" />
-      <item value="装饰" />
-      <item value="ingredient" />
-      <item value="inzzaingredient" />
-      <item value="preview" />
-      <item value="creational" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="262" />
-        <entry key="ENGLISH" value="262" />
+        <entry key="CHINESE" value="264" />
+        <entry key="ENGLISH" value="264" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
