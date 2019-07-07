@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Vehicles" />
+      <item value="Arrears" />
+      <item value="Occupancy" />
+      <item value="ccupy" />
       <item value="预约" />
       <item value="地锁" />
       <item value="exit" />
@@ -36,7 +40,6 @@
       <item value="Company" />
       <item value="station" />
       <item value="筛选" />
-      <item value="Occupancy" />
       <item value="收入" />
       <item value="charge" />
       <item value="Rate" />
@@ -48,14 +51,11 @@
       <item value="Credible" />
       <item value="algorithm" />
       <item value="Strategy" />
-      <item value="Concrete" />
-      <item value="Concrete Target" />
-      <item value="seat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="264" />
-        <entry key="ENGLISH" value="264" />
+        <entry key="CHINESE" value="267" />
+        <entry key="ENGLISH" value="268" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
