@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Access" />
+      <item value="Flow" />
       <item value="数组" />
       <item value="The following artifacts could not be resolved" />
       <item value="resolve" />
@@ -49,13 +51,11 @@
       <item value="Rate" />
       <item value="rate" />
       <item value="Anlize" />
-      <item value="分析" />
-      <item value="saveall" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="270" />
-        <entry key="ENGLISH" value="271" />
+        <entry key="CHINESE" value="272" />
+        <entry key="ENGLISH" value="273" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
