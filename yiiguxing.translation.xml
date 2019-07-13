@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="money" />
+      <item value="money Sum" />
       <item value="perform" />
       <item value="Daily" />
       <item value="pretreatment" />
@@ -49,8 +51,6 @@
       <item value="financial" />
       <item value="optimize" />
       <item value="Fee" />
-      <item value="confirm" />
-      <item value="确认" />
     </histories>
     <option name="languageScores">
       <map>
