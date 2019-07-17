@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="zone" />
       <item value="conflicts" />
       <item value="money" />
       <item value="money Sum" />
@@ -50,12 +51,11 @@
       <item value="total" />
       <item value="Ranking" />
       <item value="financial" />
-      <item value="optimize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="280" />
-        <entry key="ENGLISH" value="281" />
+        <entry key="CHINESE" value="281" />
+        <entry key="ENGLISH" value="282" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
