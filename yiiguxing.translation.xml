@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="标准" />
+      <item value="Standare" />
       <item value="unique" />
       <item value="Unsatisfied" />
       <item value="Subjoin" />
@@ -49,13 +51,11 @@
       <item value="Parking" />
       <item value="Parking Lot" />
       <item value="Origin" />
-      <item value="Conflict" />
-      <item value="off Road" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="287" />
-        <entry key="ENGLISH" value="288" />
+        <entry key="CHINESE" value="288" />
+        <entry key="ENGLISH" value="289" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
