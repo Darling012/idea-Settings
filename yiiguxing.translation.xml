@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Arrears" />
       <item value="标准" />
       <item value="Standare" />
       <item value="unique" />
@@ -34,7 +35,6 @@
       <item value="resolve" />
       <item value="execute" />
       <item value="Vehicles" />
-      <item value="Arrears" />
       <item value="Occupancy" />
       <item value="ccupy" />
       <item value="预约" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="288" />
-        <entry key="ENGLISH" value="289" />
+        <entry key="CHINESE" value="289" />
+        <entry key="ENGLISH" value="290" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
