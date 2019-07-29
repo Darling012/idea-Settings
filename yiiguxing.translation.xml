@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unsatisfied" />
       <item value="nested" />
       <item value="Initialization" />
       <item value="present" />
@@ -13,7 +14,6 @@
       <item value="标准" />
       <item value="Standare" />
       <item value="unique" />
-      <item value="Unsatisfied" />
       <item value="Subjoin" />
       <item value="Consider" />
       <item value="qualifying" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="295" />
-        <entry key="ENGLISH" value="296" />
+        <entry key="CHINESE" value="296" />
+        <entry key="ENGLISH" value="297" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
