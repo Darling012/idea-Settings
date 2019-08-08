@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="featured" />
       <item value="detect" />
       <item value="fee" />
       <item value="charge" />
@@ -50,11 +51,10 @@
       <item value="The following artifacts could not be resolved" />
       <item value="resolve" />
       <item value="execute" />
-      <item value="Vehicles" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="303" />
+        <entry key="CHINESE" value="304" />
         <entry key="ENGLISH" value="304" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
