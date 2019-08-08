@@ -2,11 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="xml" type="Native" />
       <mapping pattern="DashboardErrorCode.properties" type="PLAIN_TEXT" />
       <mapping ext="jhtml" type="PLAIN_TEXT" />
       <mapping pattern="pom" type="XML" />
-      <removed_mapping ext="xml" type="XML" />
+      <removed_mapping ext="xml" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
