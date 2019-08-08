@@ -1,13 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="detect" />
       <item value="fee" />
       <item value="charge" />
       <item value="execution" />
       <item value="Flag to indicate if the run processes should be forked. {@code fork} is&#10;automatically enabled if an agent, jvmArguments or working directory are specified,&#10;or if devtools is present." />
       <item value="decorator" />
       <item value="分析" />
-      <item value="detect" />
       <item value="检测" />
       <item value="Unsatisfied" />
       <item value="nested" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="303" />
-        <entry key="ENGLISH" value="303" />
+        <entry key="ENGLISH" value="304" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
