@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="844ba34f-cae2-4395-99e7-e7216a14986f" name="槐荫" url="http://49.4.89.241">
+        <fileTransfer host="49.4.89.241" port="39999" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="39999" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
