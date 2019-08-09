@@ -194,8 +194,12 @@
           <option name="url" value="https://github.com/chujianyun/Spring-MultiRequestBody.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.10.50.228:3000/jtXDev/survey.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\Workspaces\springboot" />
+    <option name="cloneParentDir" value="F:\workcode\jtXDev" />
   </component>
 </application>
