@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="办理" />
+      <item value="新办理" />
       <item value="month" />
       <item value="plan" />
       <item value="套餐" />
@@ -49,8 +51,6 @@
       <item value="pretreatment" />
       <item value="cool gay " />
       <item value="START_OBJECT" />
-      <item value="deserialize" />
-      <item value="分钟" />
     </histories>
     <option name="languageScores">
       <map>
