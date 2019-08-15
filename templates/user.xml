@@ -63,7 +63,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="vb" value="private Float $END$" description="private Boolean" toReformat="true" toShortenFQNames="true">
+  <template name="vb" value="private Boolean $END$" description="private Boolean" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
