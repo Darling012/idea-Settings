@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SECOND" />
       <item value="remain" />
       <item value="办理" />
       <item value="新办理" />
@@ -50,12 +51,11 @@
       <item value="perform" />
       <item value="Daily" />
       <item value="pretreatment" />
-      <item value="cool gay " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="313" />
-        <entry key="ENGLISH" value="314" />
+        <entry key="CHINESE" value="314" />
+        <entry key="ENGLISH" value="315" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="HAITIAN_CREOLE" value="1" />
