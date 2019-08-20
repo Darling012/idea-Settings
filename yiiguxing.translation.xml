@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="specified" />
+      <item value="identifier" />
       <item value="analyze" />
       <item value="appearance" />
       <item value="noise" />
@@ -49,15 +51,13 @@
       <item value="Consider" />
       <item value="qualifying" />
       <item value="REPORT" />
-      <item value="zone" />
-      <item value="conflicts" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="319" />
-        <entry key="ENGLISH" value="319" />
+        <entry key="ENGLISH" value="320" />
         <entry key="RUSSIAN" value="1" />
-        <entry key="FRENCH" value="2" />
+        <entry key="FRENCH" value="3" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SPANISH" value="1" />
