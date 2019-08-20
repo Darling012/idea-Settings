@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="analyze" />
       <item value="appearance" />
       <item value="noise" />
       <item value="Declared" />
@@ -50,11 +51,10 @@
       <item value="REPORT" />
       <item value="zone" />
       <item value="conflicts" />
-      <item value="money" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="318" />
+        <entry key="CHINESE" value="319" />
         <entry key="ENGLISH" value="319" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
