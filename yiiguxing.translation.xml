@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mute" />
       <item value="Handler" />
       <item value="operation" />
       <item value="Glmapper" />
@@ -50,7 +51,6 @@
       <item value="标准" />
       <item value="Standare" />
       <item value="unique" />
-      <item value="Subjoin" />
     </histories>
     <option name="languageScores">
       <map>
