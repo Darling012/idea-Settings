@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="重复" />
+      <item value="判断" />
       <item value="mute" />
       <item value="Handler" />
       <item value="operation" />
@@ -49,13 +51,11 @@
       <item value="Situation" />
       <item value="Arrears" />
       <item value="标准" />
-      <item value="Standare" />
-      <item value="unique" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="320" />
-        <entry key="ENGLISH" value="320" />
+        <entry key="ENGLISH" value="321" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="3" />
