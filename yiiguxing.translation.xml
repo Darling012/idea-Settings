@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="弃用" />
       <item value="detect" />
       <item value="判断" />
       <item value="decive" />
@@ -50,11 +51,10 @@
       <item value="unchecked" />
       <item value="uncheckded" />
       <item value="Situation" />
-      <item value="Arrears" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="322" />
+        <entry key="CHINESE" value="323" />
         <entry key="ENGLISH" value="323" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
