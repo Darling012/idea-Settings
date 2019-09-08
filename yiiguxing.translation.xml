@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="regardless of whether" />
+      <item value="whether" />
+      <item value="regardless" />
+      <item value="However, the compiler will treat any interface meeting the * definition of a functional interface as a functional interface * regardless of whether or not a {@code FunctionalInterface} * annotation is present on the interface declaration." />
+      <item value="treat" />
+      <item value="However" />
+      <item value="Conceptually" />
+      <item value="that also does * &lt;em&gt;not&lt;/em&gt; count toward the interface's abstract method count * since any implementation of the interface will have an * implementation from {@code java.lang.Object} or elsewhere. *" />
+      <item value="toward" />
+      <item value="exactly" />
+      <item value="indicate" />
       <item value="informative" />
       <item value="Abstract method 'add(int, int)' cannot be accessed directly" />
       <item value="工单号" />
@@ -40,22 +51,11 @@
       <item value="Statistics" />
       <item value="Summary" />
       <item value="featured" />
-      <item value="fee" />
-      <item value="charge" />
-      <item value="execution" />
-      <item value="Flag to indicate if the run processes should be forked. {@code fork} is&#10;automatically enabled if an agent, jvmArguments or working directory are specified,&#10;or if devtools is present." />
-      <item value="decorator" />
-      <item value="分析" />
-      <item value="检测" />
-      <item value="Unsatisfied" />
-      <item value="nested" />
-      <item value="Initialization" />
-      <item value="present" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="325" />
-        <entry key="ENGLISH" value="326" />
+        <entry key="CHINESE" value="339" />
+        <entry key="ENGLISH" value="340" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="3" />
