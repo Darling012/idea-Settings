@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="informative" />
       <item value="Abstract method 'add(int, int)' cannot be accessed directly" />
       <item value="工单号" />
       <item value="entrance" />
@@ -50,12 +51,11 @@
       <item value="nested" />
       <item value="Initialization" />
       <item value="present" />
-      <item value="Charge" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="325" />
-        <entry key="ENGLISH" value="325" />
+        <entry key="ENGLISH" value="326" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="3" />
