@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="album" />
       <item value="automatically" />
       <item value="humans" />
       <item value="fundamentals" />
@@ -50,7 +51,6 @@
       <item value="plan" />
       <item value="套餐" />
       <item value="Binary" />
-      <item value="Operator" />
     </histories>
     <option name="languageScores">
       <map>
