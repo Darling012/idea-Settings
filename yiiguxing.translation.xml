@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Promotion" />
       <item value="telediagnosis" />
       <item value="根目录telediagnosis" />
       <item value="medical treatment" />
@@ -50,12 +51,11 @@
       <item value="SECOND" />
       <item value="remain" />
       <item value="办理" />
-      <item value="新办理" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="341" />
-        <entry key="ENGLISH" value="342" />
+        <entry key="CHINESE" value="342" />
+        <entry key="ENGLISH" value="343" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="3" />
