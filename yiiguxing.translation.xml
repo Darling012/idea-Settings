@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="supports" />
       <item value="Adapter" />
       <item value="Adaptee" />
       <item value="Article" />
@@ -50,12 +51,11 @@
       <item value="that also does * &lt;em&gt;not&lt;/em&gt; count toward the interface's abstract method count * since any implementation of the interface will have an * implementation from {@code java.lang.Object} or elsewhere. *" />
       <item value="toward" />
       <item value="exactly" />
-      <item value="indicate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="357" />
-        <entry key="ENGLISH" value="358" />
+        <entry key="CHINESE" value="358" />
+        <entry key="ENGLISH" value="359" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="3" />
