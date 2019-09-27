@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dangling" />
+      <item value="danling" />
       <item value="discarded" />
       <item value="Policy" />
       <item value="Retention" />
@@ -49,12 +51,10 @@
       <item value="whether" />
       <item value="regardless" />
       <item value="However, the compiler will treat any interface meeting the * definition of a functional interface as a functional interface * regardless of whether or not a {@code FunctionalInterface} * annotation is present on the interface declaration." />
-      <item value="treat" />
-      <item value="However" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="362" />
+        <entry key="CHINESE" value="363" />
         <entry key="ENGLISH" value="363" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
