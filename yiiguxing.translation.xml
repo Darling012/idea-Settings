@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Singleton" />
+      <item value="单例" />
+      <item value="match" />
       <item value="原因" />
       <item value="Vehicle" />
       <item value="Handle" />
@@ -48,14 +51,11 @@
       <item value="principle" />
       <item value="discern" />
       <item value="确认" />
-      <item value="收费员" />
-      <item value="地磁" />
-      <item value="protocol" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="373" />
-        <entry key="ENGLISH" value="374" />
+        <entry key="CHINESE" value="375" />
+        <entry key="ENGLISH" value="376" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="3" />
