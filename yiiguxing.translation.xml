@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="车辆" />
+      <item value="规则" />
+      <item value="收费" />
+      <item value="判断" />
       <item value="原始" />
       <item value="识别" />
       <item value="plots" />
-      <item value="车辆" />
       <item value="Account" />
       <item value="plate" />
       <item value="预约" />
@@ -48,9 +51,6 @@
       <item value="expected" />
       <item value="greatly" />
       <item value="gallery" />
-      <item value="anonymous" />
-      <item value="caret" />
-      <item value="automatically" />
     </histories>
     <option name="languageScores">
       <map>
