@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="plots" />
       <item value="车辆" />
       <item value="Account" />
       <item value="plate" />
@@ -50,11 +51,10 @@
       <item value="caret" />
       <item value="automatically" />
       <item value="album" />
-      <item value="telediagnosis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="369" />
+        <entry key="CHINESE" value="370" />
         <entry key="ENGLISH" value="370" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
