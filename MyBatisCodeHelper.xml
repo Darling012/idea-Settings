@@ -2,14 +2,12 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
-        <option name="tempFilePath" value="C:\Users\Darling\AppData\Local\Temp\libhello.dll14628728309905811633" />
         <option name="userMacSet">
           <set>
             <option value="06-9E-BA-84-98-B3" />
             <option value="B0-25-AA-2D-01-50" />
           </set>
         </option>
-        <option name="valid" value="true" />
       </Profile>
     </option>
   </component>
