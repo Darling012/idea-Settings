@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="explorer" />
+      <item value="探险者" />
       <item value="Arrived" />
       <item value="Staff" />
       <item value="失败" />
@@ -49,13 +51,11 @@
       <item value="dangling" />
       <item value="danling" />
       <item value="discarded" />
-      <item value="Policy" />
-      <item value="Retention" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="385" />
-        <entry key="ENGLISH" value="386" />
+        <entry key="CHINESE" value="387" />
+        <entry key="ENGLISH" value="387" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="3" />
