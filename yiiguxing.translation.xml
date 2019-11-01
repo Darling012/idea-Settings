@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="接收方" />
+      <item value="接收" />
       <item value="recive" />
+      <item value="接收方" />
       <item value="explorer" />
       <item value="探险者" />
       <item value="Arrived" />
@@ -50,12 +51,11 @@
       <item value="resume" />
       <item value="endpoint" />
       <item value="expired" />
-      <item value="dangling" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="387" />
-        <entry key="ENGLISH" value="388" />
+        <entry key="CHINESE" value="388" />
+        <entry key="ENGLISH" value="389" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="3" />
