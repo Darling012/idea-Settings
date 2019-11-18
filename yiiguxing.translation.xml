@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="survey" />
       <item value="发票" />
       <item value="auth" />
       <item value="forbidden" />
@@ -50,11 +51,10 @@
       <item value="geomagnetic" />
       <item value="轮变" />
       <item value="周期性转变" />
-      <item value="转变" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="391" />
+        <entry key="CHINESE" value="392" />
         <entry key="ENGLISH" value="392" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
