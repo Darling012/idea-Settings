@@ -8,6 +8,7 @@
             <option value="B0-25-AA-2D-01-50" />
           </set>
         </option>
+        <option name="valid" value="true" />
       </Profile>
     </option>
   </component>
