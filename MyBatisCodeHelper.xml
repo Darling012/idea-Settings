@@ -2,9 +2,7 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
-        <option name="disableCompleteWithJdbcType" value="true" />
-        <option name="foldGeneratedMethod" value="true" />
-        <option name="generateMethodInServiceInterface" value="true" />
+        <option name="autoMergeJavaModel" value="false" />
         <option name="useActualParamNames" value="true" />
         <option name="usejava8LocalDateTimeEct" value="true" />
         <option name="userMacSet">
