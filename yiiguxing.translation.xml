@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="通配符" />
+      <item value="平常" />
+      <item value="通用" />
       <item value="build" />
       <item value="建造" />
       <item value="构建" />
@@ -48,14 +51,11 @@
       <item value="Handle" />
       <item value="staff" />
       <item value="worker" />
-      <item value="woker" />
-      <item value="车辆" />
-      <item value="规则" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="398" />
-        <entry key="ENGLISH" value="398" />
+        <entry key="ENGLISH" value="399" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="3" />
