@@ -10,7 +10,6 @@
     <option name="isDecoratedFolders" value="false" />
     <option name="isPsiIcons" value="false" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="statusBarTheme" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
@@ -25,7 +24,7 @@
     <option name="highlightColor" value="18c41f" />
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="userId" value="108ed961:1681cb79a3e:-8000" />
-    <option name="version" value="4.9.2.1" />
+    <option name="version" value="4.10.0" />
     <option name="tabHighlightPosition" value="Bottom" />
   </component>
 </application>
