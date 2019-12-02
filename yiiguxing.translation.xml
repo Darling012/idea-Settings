@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="付款" />
       <item value="企业" />
       <item value="账款" />
       <item value="交易" />
@@ -50,7 +51,6 @@
       <item value="高级" />
       <item value="redundant" />
       <item value="支持" />
-      <item value="suppose" />
     </histories>
     <option name="languageScores">
       <map>
