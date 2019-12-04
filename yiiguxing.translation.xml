@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="第三" />
+      <item value="disan" />
       <item value="授信" />
       <item value="Authority" />
       <item value="impower" />
@@ -49,13 +51,11 @@
       <item value="recive" />
       <item value="接收方" />
       <item value="explorer" />
-      <item value="探险者" />
-      <item value="Arrived" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="409" />
-        <entry key="ENGLISH" value="410" />
+        <entry key="CHINESE" value="410" />
+        <entry key="ENGLISH" value="411" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="5" />
