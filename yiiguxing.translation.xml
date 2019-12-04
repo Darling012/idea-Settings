@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="response" />
+      <item value="Reponse State" />
+      <item value="响应" />
+      <item value="reponse" />
+      <item value="Repose" />
       <item value="Invalid" />
       <item value="解析" />
       <item value="invoke" />
@@ -46,19 +51,14 @@
       <item value="Arrived" />
       <item value="Staff" />
       <item value="失败" />
-      <item value="fail" />
-      <item value="播放" />
-      <item value="广播" />
-      <item value="广播设备" />
-      <item value="操作" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="405" />
-        <entry key="ENGLISH" value="406" />
+        <entry key="CHINESE" value="407" />
+        <entry key="ENGLISH" value="407" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
-        <entry key="FRENCH" value="3" />
+        <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="1" />
