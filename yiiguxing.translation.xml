@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="授信" />
+      <item value="Authority" />
+      <item value="impower" />
       <item value="response" />
       <item value="Reponse State" />
       <item value="响应" />
@@ -19,7 +22,6 @@
       <item value="Canonical" />
       <item value="Impower" />
       <item value="Credit" />
-      <item value="授信" />
       <item value="通配符" />
       <item value="平常" />
       <item value="通用" />
@@ -49,13 +51,11 @@
       <item value="explorer" />
       <item value="探险者" />
       <item value="Arrived" />
-      <item value="Staff" />
-      <item value="失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="407" />
-        <entry key="ENGLISH" value="407" />
+        <entry key="CHINESE" value="409" />
+        <entry key="ENGLISH" value="410" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="5" />
