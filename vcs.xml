@@ -254,6 +254,10 @@
           <option name="url" value="http://218.56.134.116:9999/cntytz-project/cntytz-generator.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://218.56.134.116:9999/cntytz-project/cntytz-activity.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="H:\workcode" />
