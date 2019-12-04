@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invalid" />
       <item value="解析" />
       <item value="invoke" />
       <item value="调账" />
@@ -35,7 +36,6 @@
       <item value="auth" />
       <item value="forbidden" />
       <item value="backend" />
-      <item value="Invalid" />
       <item value="工具" />
       <item value="util" />
       <item value="接收" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="404" />
-        <entry key="ENGLISH" value="405" />
+        <entry key="CHINESE" value="405" />
+        <entry key="ENGLISH" value="406" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="3" />
