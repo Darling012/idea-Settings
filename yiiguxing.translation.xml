@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="权利" />
+      <item value="iampower" />
+      <item value="权限" />
+      <item value="Impower" />
       <item value="执行任务" />
       <item value="属性" />
       <item value="第三" />
@@ -24,7 +28,6 @@
       <item value="交易" />
       <item value="verify" />
       <item value="Canonical" />
-      <item value="Impower" />
       <item value="Credit" />
       <item value="通配符" />
       <item value="平常" />
@@ -48,14 +51,11 @@
       <item value="forbidden" />
       <item value="backend" />
       <item value="工具" />
-      <item value="util" />
-      <item value="接收" />
-      <item value="recive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="410" />
-        <entry key="ENGLISH" value="411" />
+        <entry key="CHINESE" value="412" />
+        <entry key="ENGLISH" value="413" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="5" />
@@ -63,7 +63,7 @@
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SPANISH" value="1" />
-        <entry key="HINDI" value="2" />
+        <entry key="HINDI" value="3" />
       </map>
     </option>
   </component>
