@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="zillo" />
+      <item value="credit" />
       <item value="权利" />
       <item value="iampower" />
       <item value="权限" />
@@ -49,13 +51,12 @@
       <item value="发票" />
       <item value="auth" />
       <item value="forbidden" />
-      <item value="backend" />
-      <item value="工具" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="412" />
-        <entry key="ENGLISH" value="413" />
+        <entry key="CHINESE" value="414" />
+        <entry key="ENGLISH" value="414" />
+        <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="5" />
