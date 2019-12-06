@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="approval" />
       <item value="reliance" />
       <item value="zillo" />
       <item value="credit" />
@@ -50,7 +51,6 @@
       <item value="Thousand" />
       <item value="survey" />
       <item value="发票" />
-      <item value="auth" />
     </histories>
     <option name="languageScores">
       <map>
