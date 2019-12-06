@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="组件" />
       <item value="approval" />
       <item value="reliance" />
       <item value="zillo" />
@@ -50,12 +51,11 @@
       <item value="middle" />
       <item value="Thousand" />
       <item value="survey" />
-      <item value="发票" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="414" />
-        <entry key="ENGLISH" value="414" />
+        <entry key="ENGLISH" value="415" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
