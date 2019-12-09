@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="调账" />
+      <item value="回款" />
+      <item value="付款" />
+      <item value="账款" />
+      <item value="approve" />
       <item value="excluded" />
       <item value="文件夹" />
       <item value="approval" />
@@ -27,11 +32,7 @@
       <item value="Invalid" />
       <item value="解析" />
       <item value="invoke" />
-      <item value="调账" />
-      <item value="回款" />
-      <item value="付款" />
       <item value="企业" />
-      <item value="账款" />
       <item value="交易" />
       <item value="verify" />
       <item value="Canonical" />
@@ -50,12 +51,11 @@
       <item value="Consider" />
       <item value="properties" />
       <item value="ticket" />
-      <item value="middle" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="416" />
-        <entry key="ENGLISH" value="416" />
+        <entry key="ENGLISH" value="417" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
