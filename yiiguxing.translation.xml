@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="平衡" />
       <item value="established" />
       <item value="已经存在" />
       <item value="excludes" />
@@ -50,12 +51,11 @@
       <item value="建造" />
       <item value="构建" />
       <item value="algid" />
-      <item value="algid parse error, not a sequence" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="423" />
-        <entry key="ENGLISH" value="424" />
+        <entry key="CHINESE" value="424" />
+        <entry key="ENGLISH" value="425" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
