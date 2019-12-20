@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="历史" />
       <item value="subtract" />
       <item value="Balance" />
       <item value="平衡" />
@@ -50,12 +51,11 @@
       <item value="平常" />
       <item value="通用" />
       <item value="build" />
-      <item value="建造" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="426" />
-        <entry key="ENGLISH" value="427" />
+        <entry key="CHINESE" value="427" />
+        <entry key="ENGLISH" value="428" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
