@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="props" />
       <item value="chunk" />
       <item value="忽略" />
       <item value="历史" />
@@ -50,12 +51,11 @@
       <item value="Canonical" />
       <item value="Credit" />
       <item value="通配符" />
-      <item value="平常" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="428" />
-        <entry key="ENGLISH" value="428" />
+        <entry key="ENGLISH" value="429" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
