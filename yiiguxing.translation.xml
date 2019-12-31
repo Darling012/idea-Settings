@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="success" />
       <item value="Schedule" />
       <item value="计划" />
       <item value="定时" />
@@ -50,11 +51,10 @@
       <item value="impower" />
       <item value="response" />
       <item value="Reponse State" />
-      <item value="响应" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="435" />
+        <entry key="CHINESE" value="436" />
         <entry key="ENGLISH" value="436" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
