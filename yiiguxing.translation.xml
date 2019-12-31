@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="推荐" />
       <item value="discount" />
       <item value="解密" />
       <item value="webpack Chunk Name" />
@@ -50,12 +51,11 @@
       <item value="Repose" />
       <item value="Invalid" />
       <item value="解析" />
-      <item value="invoke" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="433" />
-        <entry key="ENGLISH" value="434" />
+        <entry key="CHINESE" value="434" />
+        <entry key="ENGLISH" value="435" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
