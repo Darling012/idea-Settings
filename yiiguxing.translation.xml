@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exists" />
       <item value="success" />
       <item value="Schedule" />
       <item value="计划" />
@@ -50,12 +51,11 @@
       <item value="Authority" />
       <item value="impower" />
       <item value="response" />
-      <item value="Reponse State" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="436" />
-        <entry key="ENGLISH" value="436" />
+        <entry key="ENGLISH" value="437" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
