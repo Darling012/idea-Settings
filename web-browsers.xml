@@ -1,12 +1,12 @@
 <application>
   <component name="WebBrowsersConfiguration">
-    <browser id="101546b3-40a4-48f7-90ea-d2c784b689fd" name="ChromeUser" family="CHROME">
+    <browser id="101546b3-40a4-48f7-90ea-d2c784b689fd" name="ChromeUser" family="CHROME" path="C:/Program Files (x86)/Google/Chrome/Application/chrome.exe">
       <settings>
         <use-custom-profile>true</use-custom-profile>
         <user-data-dir>$USER_HOME$/AppData/Local/Google/Chrome/User Data</user-data-dir>
       </settings>
     </browser>
-    <browser id="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" name="Chrome" family="CHROME" path="C:/Program Files (x86)/Google/Chrome/Application/chrome.exe" active="false">
+    <browser id="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" name="Chrome" family="CHROME" path="C:/Program Files (x86)/Google/Chrome/Application/chrome.exe">
       <settings>
         <user-data-dir>$APPLICATION_CONFIG_DIR$</user-data-dir>
       </settings>

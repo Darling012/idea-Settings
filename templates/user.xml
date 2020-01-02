@@ -1,9 +1,4 @@
 <templateSet group="user">
-  <template name="de" value="@Description(name=&quot;$END$&quot;)" description="@Description(name=&quot;&quot;)" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_CODE" value="true" />
-    </context>
-  </template>
   <template name="fe" value="for ($end$ : ) {&#10;&#10;}" description="增强for循环" toReformat="true" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
