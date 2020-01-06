@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pattern" />
       <item value="computed" />
       <item value="practice" />
       <item value="goods" />
@@ -50,12 +51,11 @@
       <item value="执行任务" />
       <item value="属性" />
       <item value="第三" />
-      <item value="disan" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="440" />
-        <entry key="ENGLISH" value="441" />
+        <entry key="CHINESE" value="441" />
+        <entry key="ENGLISH" value="442" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
