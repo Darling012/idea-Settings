@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="失败" />
       <item value="already" />
       <item value="encode" />
       <item value="实名认证" />
@@ -16,7 +17,6 @@
       <item value="Schedule" />
       <item value="计划" />
       <item value="定时" />
-      <item value="失败" />
       <item value="推荐" />
       <item value="discount" />
       <item value="解密" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="443" />
-        <entry key="ENGLISH" value="444" />
+        <entry key="CHINESE" value="444" />
+        <entry key="ENGLISH" value="445" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
