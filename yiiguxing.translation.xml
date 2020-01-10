@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="刷新" />
       <item value="失败" />
       <item value="already" />
       <item value="encode" />
@@ -50,7 +51,6 @@
       <item value="zillo" />
       <item value="credit" />
       <item value="权利" />
-      <item value="iampower" />
     </histories>
     <option name="languageScores">
       <map>
