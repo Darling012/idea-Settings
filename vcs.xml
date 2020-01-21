@@ -278,9 +278,13 @@
           <option name="url" value="https://github.com/caoxianwei/imooc-ssr.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Darling012/Activiti.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\video\vue\Vue核心技术 Vue+Vue-Router+Vuex+SSR实战精讲" />
+    <option name="cloneParentDir" value="H:\workpace" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
