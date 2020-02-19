@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compnay Id" />
       <item value="relation" />
       <item value="special" />
       <item value="Ambiguous" />
@@ -50,12 +51,11 @@
       <item value="反转" />
       <item value="reconciliation" />
       <item value="调账" />
-      <item value="回款" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="451" />
-        <entry key="ENGLISH" value="451" />
+        <entry key="ENGLISH" value="452" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
