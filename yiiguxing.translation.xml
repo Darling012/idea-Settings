@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="刷新" />
       <item value="compnay Id" />
       <item value="relation" />
       <item value="special" />
@@ -12,7 +13,6 @@
       <item value="refence" />
       <item value="引用" />
       <item value="suppress" />
-      <item value="刷新" />
       <item value="失败" />
       <item value="already" />
       <item value="encode" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="451" />
-        <entry key="ENGLISH" value="452" />
+        <entry key="CHINESE" value="452" />
+        <entry key="ENGLISH" value="453" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
