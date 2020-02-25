@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="register" />
+      <item value="注册" />
+      <item value="regiest" />
       <item value="sucess" />
       <item value="retry-able" />
       <item value="平台" />
@@ -48,18 +51,15 @@
       <item value="忽略" />
       <item value="历史" />
       <item value="subtract" />
-      <item value="Balance" />
-      <item value="平衡" />
-      <item value="established" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="458" />
-        <entry key="ENGLISH" value="459" />
+        <entry key="CHINESE" value="460" />
+        <entry key="ENGLISH" value="460" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
-        <entry key="FRENCH" value="5" />
+        <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="ROMANIAN" value="1" />
