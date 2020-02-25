@@ -286,9 +286,13 @@
           <option name="url" value="http://218.56.134.116:9999/cntytz-project/cntytz-health.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/xwjie/ElementVueSpringbootCodeTemplate.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="H:\workpace" />
+    <option name="cloneParentDir" value="H:\openSource" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
