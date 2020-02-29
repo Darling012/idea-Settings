@@ -294,9 +294,13 @@
           <option name="url" value="https://github.com/Darling012/springboot2.0.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/steellee/webapi-security.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\video\小马哥\慕课网 Spring Boot 2.0深度实践之核心技术篇\资料" />
+    <option name="cloneParentDir" value="H:\openSource\RSA-master" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
