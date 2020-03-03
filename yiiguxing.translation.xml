@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="EnsureFundPay" />
+      <item value="EnsureFundPaymen" />
+      <item value="ticket" />
+      <item value="stick" />
+      <item value="票据" />
       <item value="PARAMETER" />
       <item value="encrypt" />
       <item value="加密" />
@@ -46,16 +51,11 @@
       <item value="success" />
       <item value="Schedule" />
       <item value="计划" />
-      <item value="定时" />
-      <item value="推荐" />
-      <item value="discount" />
-      <item value="解密" />
-      <item value="webpack Chunk Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="466" />
-        <entry key="ENGLISH" value="467" />
+        <entry key="CHINESE" value="468" />
+        <entry key="ENGLISH" value="468" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
