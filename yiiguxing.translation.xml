@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="trigger" />
       <item value="Workflow interface that allows for customized handler execution chains. * Applications can register any number of existing or custom interceptors * for certain groups of handlers, to add common preprocessing behavior * without needing to modify each handler implementation." />
       <item value="draw Deposit" />
       <item value="响应" />
@@ -50,12 +51,11 @@
       <item value="实名仁增" />
       <item value="支付中" />
       <item value="pattern" />
-      <item value="computed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="475" />
-        <entry key="ENGLISH" value="476" />
+        <entry key="CHINESE" value="476" />
+        <entry key="ENGLISH" value="477" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
@@ -74,23 +74,12 @@
       <app-key>
         <option name="appId" value="20190402000283870" />
         <option name="appKeyConfigured" value="true" />
-        <option name="primaryLanguage" value="CHINESE" />
       </app-key>
-    </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="false" />
-      </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Arial" />
     <option name="primaryFontFamily" value="Microsoft YaHei" />
     <option name="showWordsOnStartup" value="true" />
-    <option name="youdaoTranslateSettings">
-      <youdao-translate>
-        <option name="primaryLanguage" value="AUTO" />
-      </youdao-translate>
-    </option>
   </component>
 </application>
