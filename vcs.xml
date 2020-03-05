@@ -302,9 +302,13 @@
           <option name="url" value="http://218.56.134.116:9999/cntytz-project/cntytz-general.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Darling012/spring-framework-5.1.3.RELEASE.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="H:\workcode" />
+    <option name="cloneParentDir" value="F:\Workspaces\spring" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
