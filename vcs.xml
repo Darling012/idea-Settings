@@ -310,9 +310,13 @@
           <option name="url" value="https://github.com/YunaiV/RuoYi-Vue.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/lihengming/spring-boot-api-project-seed.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\Workspaces\spring" />
+    <option name="cloneParentDir" value="H:\openSource" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
