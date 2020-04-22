@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="H:/openSource/luban" firstStartUp="false" />
     <entry projectName="H:/workcode/cntytz-generator" firstStartUp="false" />
     <entry projectName="H:/workcode/cntytz-purse" firstStartUp="false" />
   </component>
