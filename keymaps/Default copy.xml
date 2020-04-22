@@ -8,6 +8,9 @@
     <keyboard-shortcut first-keystroke="9" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="Console.TableResult.CloneRow" />
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff" />
@@ -23,6 +26,9 @@
     <keyboard-shortcut first-keystroke="0" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+  </action>
   <action id="SendEOF" />
   <action id="openAssertEqualsDiff" />
 </keymap>
