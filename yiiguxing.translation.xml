@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="general" />
       <item value="exclude" />
       <item value="Branch" />
       <item value="validatator" />
@@ -50,12 +51,11 @@
       <item value="special" />
       <item value="Ambiguous" />
       <item value="Operate" />
-      <item value="origin" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="488" />
-        <entry key="ENGLISH" value="488" />
+        <entry key="ENGLISH" value="489" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
