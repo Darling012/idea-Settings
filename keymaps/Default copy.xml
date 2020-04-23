@@ -25,6 +25,11 @@
     <keyboard-shortcut first-keystroke="multiply" />
     <keyboard-shortcut first-keystroke="0" />
   </action>
+  <action id="Git.Commit.And.Push.Executor" />
+  <action id="Hg.Commit.And.Push.Executor" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl f9" />
