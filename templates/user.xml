@@ -68,4 +68,13 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="cg" value="console.log($end$)" description="console.log()" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
 </templateSet>
