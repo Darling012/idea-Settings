@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://localhost:9000" />
+          <token>df9bdf9bdfc8dfcfdfcedfcfdf99dfcfdf92df93dfcedfccdf92dfcbdfcbdf99df9bdfc8dfc9df98df99df98dfcfdfcfdf9ddf9cdf92dfcfdf92df9edf9edf92df9ddf99df9ddfccdf9ddfccdf9adfcf</token>
+          <option name="name" value="localhost" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
