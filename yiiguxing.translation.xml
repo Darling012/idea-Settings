@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Audit" />
       <item value="permit All" />
       <item value="Redirect URI mismatch" />
       <item value="approve" />
@@ -50,12 +51,11 @@
       <item value="Fund" />
       <item value="Ensure Fund Pay" />
       <item value="EnsureFundPay" />
-      <item value="EnsureFundPaymen" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="503" />
-        <entry key="ENGLISH" value="504" />
+        <entry key="CHINESE" value="504" />
+        <entry key="ENGLISH" value="505" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
