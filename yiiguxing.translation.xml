@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hit" />
       <item value="zhuti" />
       <item value="toptic" />
       <item value="企业" />
@@ -50,11 +51,10 @@
       <item value="Workflow interface that allows for customized handler execution chains. * Applications can register any number of existing or custom interceptors * for certain groups of handlers, to add common preprocessing behavior * without needing to modify each handler implementation." />
       <item value="draw Deposit" />
       <item value="响应" />
-      <item value="encrypt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="510" />
+        <entry key="CHINESE" value="511" />
         <entry key="ENGLISH" value="511" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
