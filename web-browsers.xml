@@ -4,7 +4,7 @@
     <browser id="092f3736-355e-4797-92b2-fe5316e57fd5" name="ling" family="CHROME">
       <settings>
         <use-custom-profile>true</use-custom-profile>
-        <user-data-dir>$USER_HOME$/AppData/Local/Google/Chrome/User Data/</user-data-dir>
+        <user-data-dir>$USER_HOME$/AppData/Local/Google/Chrome/User Data</user-data-dir>
       </settings>
     </browser>
   </component>
