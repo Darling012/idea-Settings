@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="远程" />
+      <item value="Remot" />
+      <item value="check" />
       <item value="FAIL" />
       <item value="ONGING" />
       <item value="SUCCESS" />
@@ -48,20 +51,18 @@
       <item value="Implicit" />
       <item value="嵌套" />
       <item value="effective" />
-      <item value="Bearer" />
-      <item value="Implementations" />
-      <item value="trigger" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="512" />
-        <entry key="ENGLISH" value="513" />
+        <entry key="CHINESE" value="513" />
+        <entry key="ENGLISH" value="514" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
+        <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="UZBEK" value="1" />
         <entry key="SPANISH" value="1" />
