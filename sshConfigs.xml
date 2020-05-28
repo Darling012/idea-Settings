@@ -3,7 +3,7 @@
     <configs>
       <sshConfig authType="PASSWORD" host="10.10.50.134" id="3b2b536a-2a8b-4a14-bbdb-858192e8235c" port="22" customName="物联云" nameFormat="CUSTOM" username="root" />
       <sshConfig authType="PASSWORD" host="49.4.89.241" id="915007f2-f2db-4985-aa9b-bbbc95bd5145" port="39999" customName="槐荫" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="49.4.89.241" id="aae2d02c-df3d-4268-8dc4-0d2be6dba1d1" port="39999" customName="槐荫" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="49.4.89.241" id="e2df66ab-382c-4fa3-aced-d9674d6c51ef" port="39999" customName="槐荫" nameFormat="CUSTOM" username="root" />
     </configs>
   </component>
 </application>
