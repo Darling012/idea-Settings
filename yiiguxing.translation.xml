@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="critical" />
       <item value="Validator" />
       <item value="Valitator" />
       <item value="address" />
@@ -50,11 +51,10 @@
       <item value="cloner" />
       <item value="克隆" />
       <item value="Invocation" />
-      <item value="general" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="518" />
+        <entry key="CHINESE" value="519" />
         <entry key="ENGLISH" value="519" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
