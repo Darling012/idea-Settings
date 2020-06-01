@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="logout" />
       <item value="stat" />
       <item value="excludes" />
       <item value="lacked" />
@@ -50,12 +51,11 @@
       <item value="deprecate" />
       <item value="拷贝" />
       <item value="cloning" />
-      <item value="clon" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="520" />
-        <entry key="ENGLISH" value="520" />
+        <entry key="ENGLISH" value="521" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
