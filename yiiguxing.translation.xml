@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="extra" />
+      <item value="external" />
       <item value="defer" />
       <item value="obtain" />
       <item value="虚拟" />
@@ -49,8 +51,6 @@
       <item value="Authentication" />
       <item value="specified" />
       <item value="Enterprise" />
-      <item value="apirl" />
-      <item value="apil" />
     </histories>
     <option name="languageScores">
       <map>
