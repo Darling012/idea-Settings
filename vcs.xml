@@ -370,9 +370,13 @@
           <option name="url" value="http://218.56.134.116:9999/cntytz-project/cntytz-uasSign.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/lightningMan/flash-netty.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="H:\workcode" />
+    <option name="cloneParentDir" value="G:\socket\Netty 入门与实战：仿写微信 IM 即时通讯系统" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
