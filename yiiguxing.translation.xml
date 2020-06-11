@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="capital" />
       <item value="interest" />
       <item value="利息" />
-      <item value="capital" />
       <item value="本金" />
       <item value="intrenal" />
       <item value="frames" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="529" />
-        <entry key="ENGLISH" value="529" />
+        <entry key="ENGLISH" value="530" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
