@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fill" />
       <item value="虚拟" />
       <item value="interest" />
       <item value="capital" />
@@ -50,12 +51,11 @@
       <item value="enterprise" />
       <item value="able" />
       <item value="contact" />
-      <item value="Audit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="531" />
-        <entry key="ENGLISH" value="532" />
+        <entry key="CHINESE" value="532" />
+        <entry key="ENGLISH" value="533" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
