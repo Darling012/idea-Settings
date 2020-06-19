@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sign" />
+      <item value="manually" />
       <item value="breadcrumbs" />
       <item value="breadcrums" />
       <item value="bread" />
@@ -49,13 +51,11 @@
       <item value="SUCCESS" />
       <item value="hit" />
       <item value="zhuti" />
-      <item value="toptic" />
-      <item value="企业" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="533" />
-        <entry key="ENGLISH" value="533" />
+        <entry key="CHINESE" value="534" />
+        <entry key="ENGLISH" value="535" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
