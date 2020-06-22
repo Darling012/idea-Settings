@@ -390,6 +390,10 @@
           <option name="url" value="https://gitee.com/darlingling/RuoYi-Vue.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitee.com" />
+          <option name="userName" value="darlingling" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="H:\openSource" />
