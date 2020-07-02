@@ -426,6 +426,10 @@
           <option name="url" value="https://gitee.com/itmuch/spring-cloud-study.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/darlingling/DiscoveryGuide.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\Workspaces\springcloud" />
