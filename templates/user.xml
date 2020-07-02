@@ -1,27 +1,4 @@
 <templateSet group="user">
-  <template name="fe" value="for ($end$ : ) {&#10;&#10;}" description="增强for循环" toReformat="true" toShortenFQNames="true">
-    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="OTHER" value="true" />
-    </context>
-  </template>
-  <template name="fs" value="for (String value : $end$) {&#10;&#10;}" description="增强for循环  String" toReformat="true" toShortenFQNames="true">
-    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="OTHER" value="true" />
-    </context>
-  </template>
-  <template name="fi" value="for (int i = 0; i &lt; $end$.size(); i++) {&#10;&#10;}" description="for (int i = 0; i &lt; a.size(); i++)" toReformat="true" toShortenFQNames="true">
-    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="OTHER" value="true" />
-    </context>
-  </template>
-  <template name="if" value="if ($END$) {&#10;&#10;}" description="" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_CODE" value="true" />
-    </context>
-  </template>
   <template name="logger" value="private static final Logger logger = LoggerFactory.getLogger($CLASS_NAME$.class);" description="" toReformat="true" toShortenFQNames="true">
     <variable name="CLASS_NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
     <context>
