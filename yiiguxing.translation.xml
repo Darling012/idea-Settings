@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="成功" />
       <item value="Circuit Breaker" />
       <item value="present" />
       <item value="executed" />
@@ -50,12 +51,11 @@
       <item value="lacked" />
       <item value="critical" />
       <item value="Validator" />
-      <item value="Valitator" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="548" />
-        <entry key="ENGLISH" value="548" />
+        <entry key="ENGLISH" value="549" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
