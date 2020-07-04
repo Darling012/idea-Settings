@@ -112,5 +112,8 @@
     <entry projectName="H:/workpace/cntytz-filesystem" firstStartUp="false" />
     <entry projectName="H:/workpace/cntytz-ticket" firstStartUp="false" />
     <entry projectName="H:/workpace/devForJT" firstStartUp="false" />
+    <entry projectName="H:/workpace/diagnosis/telediagnosis-server" firstStartUp="false" />
+    <entry projectName="H:/workpace/diagnosis/telediagnosis-vue" firstStartUp="false" />
+    <entry projectName="H:/workpace/easy-mock/diagnosis" firstStartUp="false" />
   </component>
 </application>
