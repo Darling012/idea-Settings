@@ -6,6 +6,7 @@
       <mapping pattern="DashboardErrorCode.properties" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern="FETCH_HEAD" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="dmp" type="PLAIN_TEXT" />
       <mapping ext="jhtml" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
