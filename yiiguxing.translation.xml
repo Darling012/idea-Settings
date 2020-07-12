@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reduce" />
       <item value="latency" />
       <item value="bound" />
       <item value="Invalid" />
@@ -50,12 +51,11 @@
       <item value="实体" />
       <item value="abrot" />
       <item value="recharge" />
-      <item value="negate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="557" />
-        <entry key="ENGLISH" value="558" />
+        <entry key="CHINESE" value="558" />
+        <entry key="ENGLISH" value="559" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
