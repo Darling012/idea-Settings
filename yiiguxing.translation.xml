@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Granter" />
+      <item value="implicit" />
       <item value="stripe" />
       <item value="assignable" />
       <item value="Credentials" />
@@ -49,13 +51,11 @@
       <item value="manually" />
       <item value="breadcrumbs" />
       <item value="breadcrums" />
-      <item value="bread" />
-      <item value="Fill" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="571" />
-        <entry key="ENGLISH" value="572" />
+        <entry key="CHINESE" value="573" />
+        <entry key="ENGLISH" value="574" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
