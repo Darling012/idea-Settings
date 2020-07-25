@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Encoded password does not look like BCrypt" />
       <item value="Granter" />
       <item value="implicit" />
       <item value="stripe" />
@@ -50,12 +51,11 @@
       <item value="sign" />
       <item value="manually" />
       <item value="breadcrumbs" />
-      <item value="breadcrums" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="573" />
-        <entry key="ENGLISH" value="574" />
+        <entry key="CHINESE" value="574" />
+        <entry key="ENGLISH" value="575" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
