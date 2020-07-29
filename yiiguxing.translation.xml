@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="second" />
       <item value="directives" />
       <item value="Percentage" />
       <item value="占比" />
@@ -50,12 +51,11 @@
       <item value="diagnosis" />
       <item value="会诊" />
       <item value="expert" />
-      <item value="breif" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="579" />
-        <entry key="ENGLISH" value="579" />
+        <entry key="ENGLISH" value="580" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
