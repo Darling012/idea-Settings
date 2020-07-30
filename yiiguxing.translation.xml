@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="住户" />
       <item value="Exact" />
       <item value="second" />
       <item value="directives" />
@@ -22,7 +23,6 @@
       <item value="关联" />
       <item value="credentials" />
       <item value="niubility" />
-      <item value="住户" />
       <item value="tenantry" />
       <item value="租户" />
       <item value="RENT" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="580" />
-        <entry key="ENGLISH" value="581" />
+        <entry key="CHINESE" value="581" />
+        <entry key="ENGLISH" value="582" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
