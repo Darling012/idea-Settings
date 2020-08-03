@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="代替" />
       <item value="finalize" />
       <item value="Resident" />
       <item value="住户" />
@@ -50,12 +51,11 @@
       <item value="interpreted" />
       <item value="excludes" />
       <item value="面包屑" />
-      <item value="whiteSpace" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="583" />
-        <entry key="ENGLISH" value="584" />
+        <entry key="CHINESE" value="584" />
+        <entry key="ENGLISH" value="585" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
