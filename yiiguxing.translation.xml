@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="out of VALUE_NUMBER_INT token" />
       <item value="代替" />
       <item value="SECONDS" />
       <item value="precision" />
@@ -50,12 +51,11 @@
       <item value="whether to mark the feign proxy as a primary bean. Defaults to true" />
       <item value="Entry" />
       <item value="Activity" />
-      <item value="patient" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="591" />
-        <entry key="ENGLISH" value="592" />
+        <entry key="CHINESE" value="592" />
+        <entry key="ENGLISH" value="593" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
