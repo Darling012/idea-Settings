@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stripe" />
       <item value="out of VALUE_NUMBER_INT token" />
       <item value="代替" />
       <item value="SECONDS" />
@@ -27,7 +28,6 @@
       <item value="Encoded password does not look like BCrypt" />
       <item value="Granter" />
       <item value="implicit" />
-      <item value="stripe" />
       <item value="assignable" />
       <item value="Credentials" />
       <item value="Authorization" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="592" />
-        <entry key="ENGLISH" value="593" />
+        <entry key="CHINESE" value="593" />
+        <entry key="ENGLISH" value="594" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
