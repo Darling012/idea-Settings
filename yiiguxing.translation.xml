@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="filterable" />
       <item value="stripe" />
       <item value="out of VALUE_NUMBER_INT token" />
       <item value="代替" />
@@ -50,12 +51,11 @@
       <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured" />
       <item value="whether to mark the feign proxy as a primary bean. Defaults to true" />
       <item value="Entry" />
-      <item value="Activity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="593" />
-        <entry key="ENGLISH" value="594" />
+        <entry key="CHINESE" value="594" />
+        <entry key="ENGLISH" value="595" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
