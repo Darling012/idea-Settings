@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="resident" />
+      <item value="householder" />
+      <item value="住户" />
       <item value="filterable" />
       <item value="stripe" />
       <item value="out of VALUE_NUMBER_INT token" />
@@ -14,7 +17,6 @@
       <item value="单元号" />
       <item value="finalize" />
       <item value="Resident" />
-      <item value="住户" />
       <item value="Exact" />
       <item value="second" />
       <item value="directives" />
@@ -49,13 +51,11 @@
       <item value="Invalid" />
       <item value="specified" />
       <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured" />
-      <item value="whether to mark the feign proxy as a primary bean. Defaults to true" />
-      <item value="Entry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="594" />
-        <entry key="ENGLISH" value="595" />
+        <entry key="CHINESE" value="596" />
+        <entry key="ENGLISH" value="596" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
