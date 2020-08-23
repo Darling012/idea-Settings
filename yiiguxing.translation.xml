@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SECONDS" />
       <item value="assign" />
       <item value="指定" />
       <item value="score" />
@@ -13,7 +14,6 @@
       <item value="stripe" />
       <item value="out of VALUE_NUMBER_INT token" />
       <item value="代替" />
-      <item value="SECONDS" />
       <item value="precision" />
       <item value="No validator could be found for constraint 'javax.validation.constraints.NotEmpty' validating type 'java.math.BigDecimal'" />
       <item value="constraint" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="598" />
-        <entry key="ENGLISH" value="598" />
+        <entry key="ENGLISH" value="599" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
