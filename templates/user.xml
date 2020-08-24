@@ -62,4 +62,9 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="snb" value="if(StringUtils.isNotBlank($END$)){&#10;&#10;}" description="commons-lang3 StringUtils.isNotBlank" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
