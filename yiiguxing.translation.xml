@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The Lombok plugin now works as expected without getting blocked by excepti" />
       <item value="Addition" />
       <item value="补充信息" />
       <item value="fulfill" />
@@ -50,13 +51,12 @@
       <item value="assignable" />
       <item value="Credentials" />
       <item value="Authorization" />
-      <item value="关联" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="608" />
+        <entry key="CHINESE" value="610" />
         <entry key="ENGLISH" value="609" />
-        <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
