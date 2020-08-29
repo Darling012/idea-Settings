@@ -4,5 +4,7 @@
     <option name="isEnabledDirectories" value="false" />
     <option name="monochromeColor" value="546e7a" />
     <option name="isEnabledPsiIcons" value="false" />
+    <option name="accentColor" value="589df6" />
+    <option name="themedColor" value="bbbbbb" />
   </component>
 </application>
