@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="当前" />
+      <item value="Curruent" />
+      <item value="特殊" />
       <item value="minus" />
       <item value="Seconds" />
       <item value="秒数" />
@@ -48,14 +51,11 @@
       <item value="拒绝" />
       <item value="refuse" />
       <item value="define" />
-      <item value="Encoded password does not look like BCrypt" />
-      <item value="Granter" />
-      <item value="implicit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="612" />
-        <entry key="ENGLISH" value="613" />
+        <entry key="CHINESE" value="614" />
+        <entry key="ENGLISH" value="615" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
@@ -65,6 +65,7 @@
         <entry key="FINNISH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="CATALAN" value="1" />
+        <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="UZBEK" value="1" />
         <entry key="SPANISH" value="1" />
