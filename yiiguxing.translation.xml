@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="minus" />
+      <item value="Seconds" />
       <item value="秒数" />
       <item value="完成" />
       <item value="The Lombok plugin now works as expected without getting blocked by excepti" />
@@ -15,7 +17,6 @@
       <item value="destory" />
       <item value="二维码" />
       <item value="tenantry" />
-      <item value="minus" />
       <item value="SECONDS" />
       <item value="assign" />
       <item value="指定" />
@@ -50,12 +51,11 @@
       <item value="Encoded password does not look like BCrypt" />
       <item value="Granter" />
       <item value="implicit" />
-      <item value="assignable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="610" />
-        <entry key="ENGLISH" value="611" />
+        <entry key="CHINESE" value="612" />
+        <entry key="ENGLISH" value="613" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
