@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Leap" />
       <item value="当前" />
       <item value="Curruent" />
       <item value="特殊" />
@@ -50,12 +51,11 @@
       <item value="house" />
       <item value="拒绝" />
       <item value="refuse" />
-      <item value="define" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="614" />
-        <entry key="ENGLISH" value="615" />
+        <entry key="CHINESE" value="615" />
+        <entry key="ENGLISH" value="616" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
