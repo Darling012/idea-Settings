@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assets" />
       <item value="Leap" />
       <item value="当前" />
       <item value="Curruent" />
@@ -50,7 +51,6 @@
       <item value="chart" />
       <item value="house" />
       <item value="拒绝" />
-      <item value="refuse" />
     </histories>
     <option name="languageScores">
       <map>
