@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Persistence" />
+      <item value="Isolation" />
+      <item value="Propagation" />
+      <item value="Behavior" />
       <item value="bar" />
       <item value="快捷操作" />
       <item value="assets" />
@@ -47,15 +51,11 @@
       <item value="Exact" />
       <item value="second" />
       <item value="directives" />
-      <item value="Percentage" />
-      <item value="占比" />
-      <item value="比例" />
-      <item value="chart" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="617" />
-        <entry key="ENGLISH" value="617" />
+        <entry key="CHINESE" value="620" />
+        <entry key="ENGLISH" value="621" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
@@ -86,5 +86,6 @@
     <option name="phoneticFontFamily" value="Arial" />
     <option name="primaryFontFamily" value="Microsoft YaHei" />
     <option name="showWordsOnStartup" value="true" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
