@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="legend" />
       <item value="raddar" />
       <item value="Persistence" />
       <item value="Isolation" />
@@ -50,12 +51,11 @@
       <item value="finalize" />
       <item value="Resident" />
       <item value="Exact" />
-      <item value="second" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="621" />
-        <entry key="ENGLISH" value="621" />
+        <entry key="ENGLISH" value="622" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="ICELANDIC" value="1" />
@@ -87,6 +87,5 @@
     <option name="phoneticFontFamily" value="Arial" />
     <option name="primaryFontFamily" value="Microsoft YaHei" />
     <option name="showWordsOnStartup" value="true" />
-    <option name="translateDocumentation" value="true" />
   </component>
 </application>
