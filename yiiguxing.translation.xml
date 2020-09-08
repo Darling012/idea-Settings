@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dash Board" />
       <item value="special" />
       <item value="toggle" />
       <item value="legend" />
@@ -50,12 +51,11 @@
       <item value="存在" />
       <item value="房号" />
       <item value="单元号" />
-      <item value="finalize" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="623" />
-        <entry key="ENGLISH" value="623" />
+        <entry key="ENGLISH" value="624" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="ICELANDIC" value="1" />
