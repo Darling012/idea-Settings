@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="duration" />
       <item value="块" />
       <item value="dash Board" />
       <item value="special" />
@@ -50,12 +51,11 @@
       <item value="No validator could be found for constraint 'javax.validation.constraints.NotEmpty' validating type 'java.math.BigDecimal'" />
       <item value="constraint" />
       <item value="存在" />
-      <item value="房号" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="624" />
-        <entry key="ENGLISH" value="625" />
+        <entry key="CHINESE" value="625" />
+        <entry key="ENGLISH" value="626" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="ICELANDIC" value="1" />
