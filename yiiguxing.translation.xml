@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Compete" />
       <item value="物业" />
       <item value="横坐标" />
       <item value="柱状图" />
@@ -50,12 +51,11 @@
       <item value="stripe" />
       <item value="out of VALUE_NUMBER_INT token" />
       <item value="代替" />
-      <item value="precision" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="626" />
-        <entry key="ENGLISH" value="627" />
+        <entry key="CHINESE" value="627" />
+        <entry key="ENGLISH" value="628" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="ICELANDIC" value="1" />
