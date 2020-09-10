@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="物业" />
       <item value="横坐标" />
       <item value="柱状图" />
       <item value="duration" />
@@ -50,7 +51,6 @@
       <item value="out of VALUE_NUMBER_INT token" />
       <item value="代替" />
       <item value="precision" />
-      <item value="No validator could be found for constraint 'javax.validation.constraints.NotEmpty' validating type 'java.math.BigDecimal'" />
     </histories>
     <option name="languageScores">
       <map>
