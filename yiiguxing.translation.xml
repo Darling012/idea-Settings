@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="equipmnet" />
+      <item value="equimnet" />
       <item value="owner" />
       <item value="Monthly" />
       <item value="Month" />
@@ -49,13 +51,11 @@
       <item value="指定" />
       <item value="score" />
       <item value="分数" />
-      <item value="resident" />
-      <item value="householder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="633" />
-        <entry key="ENGLISH" value="634" />
+        <entry key="CHINESE" value="636" />
+        <entry key="ENGLISH" value="637" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="ICELANDIC" value="1" />
