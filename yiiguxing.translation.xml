@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="报修" />
+      <item value="业主" />
+      <item value="访问" />
+      <item value="total" />
+      <item value="Repair" />
       <item value="投诉" />
       <item value="访客" />
       <item value="物业" />
@@ -46,16 +51,11 @@
       <item value="特殊" />
       <item value="minus" />
       <item value="Seconds" />
-      <item value="秒数" />
-      <item value="完成" />
-      <item value="The Lombok plugin now works as expected without getting blocked by excepti" />
-      <item value="Addition" />
-      <item value="补充信息" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="646" />
-        <entry key="ENGLISH" value="647" />
+        <entry key="CHINESE" value="647" />
+        <entry key="ENGLISH" value="648" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="ICELANDIC" value="1" />
