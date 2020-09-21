@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="投诉" />
+      <item value="访客" />
+      <item value="物业" />
+      <item value="Property" />
+      <item value="相关" />
+      <item value="分析" />
+      <item value="composite" />
+      <item value="综合" />
+      <item value="dashboard" />
       <item value="credentials Non Expired" />
       <item value="visitor" />
       <item value="recognised" />
@@ -13,8 +22,6 @@
       <item value="owner" />
       <item value="Monthly" />
       <item value="Month" />
-      <item value="物业" />
-      <item value="Property" />
       <item value="产权" />
       <item value="Compete" />
       <item value="横坐标" />
@@ -44,18 +51,11 @@
       <item value="The Lombok plugin now works as expected without getting blocked by excepti" />
       <item value="Addition" />
       <item value="补充信息" />
-      <item value="fulfill" />
-      <item value="落实" />
-      <item value="attend" />
-      <item value="actually" />
-      <item value="Actually" />
-      <item value="实到" />
-      <item value="destory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="642" />
-        <entry key="ENGLISH" value="643" />
+        <entry key="CHINESE" value="646" />
+        <entry key="ENGLISH" value="647" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="ICELANDIC" value="1" />
