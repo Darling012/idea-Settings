@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="obtain" />
       <item value="terminated" />
       <item value="detecting" />
       <item value="Inherited" />
@@ -50,12 +51,11 @@
       <item value="legend" />
       <item value="raddar" />
       <item value="Persistence" />
-      <item value="Isolation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="656" />
-        <entry key="ENGLISH" value="657" />
+        <entry key="CHINESE" value="657" />
+        <entry key="ENGLISH" value="658" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
