@@ -10,11 +10,11 @@
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.HTML</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
     <mask>*.*</mask>
+    <mask>*.HTML</mask>
     <mask>*.java</mask>
   </component>
 </application>
