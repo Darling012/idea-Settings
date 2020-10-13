@@ -13,8 +13,8 @@
     <mask>*.xml</mask>
     <mask>*.vue</mask>
     <mask>*.java</mask>
-    <mask>*.HTML</mask>
     <mask>*.*</mask>
+    <mask>*.HTML</mask>
     <mask>*.js</mask>
   </component>
 </application>
