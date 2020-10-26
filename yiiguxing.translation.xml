@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="还款" />
       <item value="放款" />
+      <item value="还款" />
       <item value="利息" />
       <item value="financing" />
       <item value="计息" />
