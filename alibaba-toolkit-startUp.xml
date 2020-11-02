@@ -52,6 +52,7 @@
     <entry projectPath="H:/workcode/cntytz-credit" startUpFlag="FIRST" />
     <entry projectPath="H:/workcode/cntytz-ext" startUpFlag="FIRST" />
     <entry projectPath="H:/workcode/cntytz-financing" startUpFlag="FIRST" />
+    <entry projectPath="H:/workcode/cntytz-insured-admin" startUpFlag="FIRST" />
     <entry projectPath="H:/workcode/cntytz-lms" startUpFlag="FIRST" />
     <entry projectPath="H:/workcode/cntytz-purse" startUpFlag="FIRST" />
     <entry projectPath="H:/workcode/cntytz-purse-front" startUpFlag="FIRST" />
@@ -60,6 +61,7 @@
     <entry projectPath="H:/workcode/cntytz-tztb" startUpFlag="FIRST" />
     <entry projectPath="H:/workcode/oauth" startUpFlag="FIRST" />
     <entry projectPath="H:/workcode/platform_front" startUpFlag="FIRST" />
+    <entry projectPath="H:/workcode/tztb_pc" startUpFlag="FIRST" />
     <entry projectPath="H:/workpace/PC_front" startUpFlag="FIRST" />
   </component>
 </application>
