@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="account" />
+      <item value="grandson" />
+      <item value="grand" />
       <item value="政府" />
       <item value="范围" />
       <item value="cry" />
@@ -48,13 +51,10 @@
       <item value="visitor" />
       <item value="recognised" />
       <item value="releases" />
-      <item value="原因" />
-      <item value="unit" />
-      <item value="floor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="669" />
+        <entry key="CHINESE" value="670" />
         <entry key="ENGLISH" value="670" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
