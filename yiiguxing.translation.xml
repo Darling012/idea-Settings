@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Immovable" />
+      <item value="Immovables" />
+      <item value="immovables" />
+      <item value="不动产" />
       <item value="外层" />
       <item value="共用" />
       <item value="公用" />
@@ -47,15 +51,11 @@
       <item value="物业" />
       <item value="Property" />
       <item value="相关" />
-      <item value="分析" />
-      <item value="composite" />
-      <item value="综合" />
-      <item value="dashboard" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="670" />
-        <entry key="ENGLISH" value="671" />
+        <entry key="CHINESE" value="672" />
+        <entry key="ENGLISH" value="673" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
