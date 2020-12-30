@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="797" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="Represents a function that routes to a {@linkplain HandlerFunction handler function}. @author Arjen Poutsma @since 5.0 @param &lt;T&gt; the type of the {@linkplain HandlerFunction handler function} to route to @see RouterFun" />
       <item value="is normally permitted" />
       <item value="insured" />
       <item value="purse" />
@@ -53,12 +54,11 @@
       <item value="Complaint" />
       <item value="principle" />
       <item value="invalid" />
-      <item value="常量" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="681" />
-        <entry key="ENGLISH" value="682" />
+        <entry key="CHINESE" value="682" />
+        <entry key="ENGLISH" value="683" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1608514934426" />
+    <option name="lastTrimTime" value="1609320549349" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
