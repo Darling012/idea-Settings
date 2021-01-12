@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="797" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="kevin" />
       <item value="Represents a function that routes to a {@linkplain HandlerFunction handler function}. @author Arjen Poutsma @since 5.0 @param &lt;T&gt; the type of the {@linkplain HandlerFunction handler function} to route to @see RouterFun" />
       <item value="is normally permitted" />
       <item value="insured" />
@@ -53,7 +54,6 @@
       <item value="delegate" />
       <item value="Complaint" />
       <item value="principle" />
-      <item value="invalid" />
     </histories>
     <option name="languageScores">
       <map>
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1609320549349" />
+    <option name="lastTrimTime" value="1610429846741" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
@@ -89,7 +89,6 @@
         <option name="appId" value="20190402000283870" />
       </app-key>
     </option>
-    <option name="ignoreRegExp" value="" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Arial" />
     <option name="primaryFontFamily" value="Microsoft YaHei" />
