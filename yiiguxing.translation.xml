@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="797" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="completion" />
       <item value="演示&#10;" />
       <item value="演示" />
       <item value="kevin" />
@@ -53,12 +54,11 @@
       <item value="terminated" />
       <item value="detecting" />
       <item value="Inherited" />
-      <item value="delegate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="682" />
-        <entry key="ENGLISH" value="683" />
+        <entry key="CHINESE" value="683" />
+        <entry key="ENGLISH" value="684" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1610429846741" />
+    <option name="lastTrimTime" value="1610938445950" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
