@@ -1,0 +1,6 @@
+<application>
+  <component name="EasyApiSetting">
+    <option name="yapiServer" value="http://192.168.215.100:40000/" />
+    <option name="yapiTokens" value="#&#13;&#10;#Wed Jan 20 14:27:57 CST 2021&#13;&#10;minio-validation=e8f76071e11a648a7c638656a1c3b900247ac3293854eab70b3e425a51a4b6a9&#13;&#10;" />
+  </component>
+</application>
