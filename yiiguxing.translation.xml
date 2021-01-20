@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="797" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="To push into this reference you need 'Push' rights" />
+      <item value="operation" />
+      <item value="perform" />
       <item value="Transfer" />
       <item value="completion" />
       <item value="演示&#10;" />
@@ -51,14 +54,11 @@
       <item value="Contact" />
       <item value="状态" />
       <item value="denied" />
-      <item value="obtain" />
-      <item value="terminated" />
-      <item value="detecting" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="684" />
-        <entry key="ENGLISH" value="685" />
+        <entry key="CHINESE" value="687" />
+        <entry key="ENGLISH" value="688" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
