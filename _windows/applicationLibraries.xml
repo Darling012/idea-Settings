@@ -1,38 +1,5 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.7 interpreter library">
-      <CLASSES>
-        <root url="file://D:/python/DLLs" />
-        <root url="file://D:/python/Lib" />
-        <root url="file://D:/python" />
-        <root url="file://F:/video/python/Python高级核心技术97讲/AdvancePython-master/venv" />
-        <root url="file://F:/video/python/Python高级核心技术97讲/AdvancePython-master/venv/Lib/site-packages" />
-        <root url="jar://F:/video/python/Python高级核心技术97讲/AdvancePython-master/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" />
-        <root url="file://F:/video/python/Python高级核心技术97讲/AdvancePython-master/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" />
-        <root url="file://D:/JetBrains/.IntelliJIdea/system/python_stubs/104164805" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://D:/python/DLLs" />
-        <root url="file://D:/python/Lib" />
-        <root url="file://D:/python" />
-        <root url="file://F:/video/python/Python高级核心技术97讲/AdvancePython-master/venv" />
-        <root url="file://F:/video/python/Python高级核心技术97讲/AdvancePython-master/venv/Lib/site-packages" />
-        <root url="jar://F:/video/python/Python高级核心技术97讲/AdvancePython-master/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" />
-        <root url="file://F:/video/python/Python高级核心技术97讲/AdvancePython-master/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" />
-        <root url="file://D:/JetBrains/.IntelliJIdea/system/python_stubs/104164805" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
     <library name="Python 3.8 (venv) interpreter library">
       <CLASSES>
         <root url="file://D:/anaconda/DLLs" />
