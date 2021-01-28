@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="797" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="however" />
       <item value="An image does not exist locally with the tag" />
       <item value="specified" />
       <item value="To push into this reference you need 'Push' rights" />
@@ -53,7 +54,6 @@
       <item value="计息" />
       <item value="=计息" />
       <item value="合同" />
-      <item value="Contact" />
     </histories>
     <option name="languageScores">
       <map>

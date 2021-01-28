@@ -33,5 +33,44 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Python 3.8 (venv) interpreter library">
+      <CLASSES>
+        <root url="file://D:/anaconda/DLLs" />
+        <root url="file://D:/anaconda/Lib" />
+        <root url="file://D:/anaconda" />
+        <root url="file://H:/openSource/Python/venv" />
+        <root url="file://H:/openSource/Python/venv/Lib/site-packages" />
+        <root url="file://D:/anaconda/Lib/site-packages" />
+        <root url="file://D:/anaconda/Lib/site-packages/win32" />
+        <root url="file://D:/anaconda/Lib/site-packages/win32/lib" />
+        <root url="file://D:/anaconda/Lib/site-packages/pythonwin" />
+        <root url="file://D:/JetBrains/.IntelliJIdea/system/python_stubs/-81374919" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://D:/anaconda/DLLs" />
+        <root url="file://D:/anaconda/Lib" />
+        <root url="file://D:/anaconda" />
+        <root url="file://H:/openSource/Python/venv" />
+        <root url="file://H:/openSource/Python/venv/Lib/site-packages" />
+        <root url="file://D:/anaconda/Lib/site-packages" />
+        <root url="file://D:/anaconda/Lib/site-packages/win32" />
+        <root url="file://D:/anaconda/Lib/site-packages/win32/lib" />
+        <root url="file://D:/anaconda/Lib/site-packages/pythonwin" />
+        <root url="file://D:/JetBrains/.IntelliJIdea/system/python_stubs/-81374919" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
   </component>
 </application>
