@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="xmind" type="Native" />
       <mapping pattern="FETCH_HEAD" type="PLAIN_TEXT" />
       <mapping pattern="DashboardErrorCode.properties" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
