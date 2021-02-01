@@ -5,8 +5,6 @@
         <root url="file://D:/anaconda/DLLs" />
         <root url="file://D:/anaconda/Lib" />
         <root url="file://D:/anaconda" />
-        <root url="file://H:/openSource/Python/venv" />
-        <root url="file://H:/openSource/Python/venv/Lib/site-packages" />
         <root url="file://D:/anaconda/Lib/site-packages" />
         <root url="file://D:/anaconda/Lib/site-packages/win32" />
         <root url="file://D:/anaconda/Lib/site-packages/win32/lib" />
@@ -24,8 +22,6 @@
         <root url="file://D:/anaconda/DLLs" />
         <root url="file://D:/anaconda/Lib" />
         <root url="file://D:/anaconda" />
-        <root url="file://H:/openSource/Python/venv" />
-        <root url="file://H:/openSource/Python/venv/Lib/site-packages" />
         <root url="file://D:/anaconda/Lib/site-packages" />
         <root url="file://D:/anaconda/Lib/site-packages/win32" />
         <root url="file://D:/anaconda/Lib/site-packages/win32/lib" />
