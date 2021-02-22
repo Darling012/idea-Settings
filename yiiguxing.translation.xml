@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="797" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="granter" />
       <item value="Could not resolve placeholder" />
       <item value="actually" />
       <item value="transport&#10;" />
@@ -53,12 +54,11 @@
       <item value="政府" />
       <item value="范围" />
       <item value="cry" />
-      <item value="rank" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="696" />
-        <entry key="ENGLISH" value="697" />
+        <entry key="CHINESE" value="697" />
+        <entry key="ENGLISH" value="698" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
