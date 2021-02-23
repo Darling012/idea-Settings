@@ -1,9 +1,18 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="797" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="Three" />
+      <item value="Recent" />
+      <item value="Rate" />
+      <item value="垂直&#10;" />
+      <item value="横" />
+      <item value="横着" />
+      <item value="水平" />
+      <item value="水晶" />
+      <item value="s" />
       <item value="granter" />
       <item value="Could not resolve placeholder" />
       <item value="actually" />
@@ -45,20 +54,11 @@
       <item value="immovables" />
       <item value="不动产" />
       <item value="外层" />
-      <item value="共用" />
-      <item value="公用" />
-      <item value="通用" />
-      <item value="account" />
-      <item value="grandson" />
-      <item value="grand" />
-      <item value="政府" />
-      <item value="范围" />
-      <item value="cry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="697" />
-        <entry key="ENGLISH" value="698" />
+        <entry key="CHINESE" value="700" />
+        <entry key="ENGLISH" value="701" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
