@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="797" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="temperature" />
       <item value="次&#10;" />
       <item value="次数&#10;" />
       <item value="polymerization" />
@@ -53,12 +54,11 @@
       <item value="演示" />
       <item value="kevin" />
       <item value="Represents a function that routes to a {@linkplain HandlerFunction handler function}. @author Arjen Poutsma @since 5.0 @param &lt;T&gt; the type of the {@linkplain HandlerFunction handler function} to route to @see RouterFun" />
-      <item value="is normally permitted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="702" />
-        <entry key="ENGLISH" value="703" />
+        <entry key="CHINESE" value="703" />
+        <entry key="ENGLISH" value="704" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
