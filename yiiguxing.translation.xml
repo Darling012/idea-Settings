@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="797" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="polymerization" />
+      <item value="聚合" />
       <item value="启用停用" />
       <item value="启用 " />
       <item value="Threshold&#10;&#10;&#10;" />
@@ -52,8 +54,6 @@
       <item value="is normally permitted" />
       <item value="insured" />
       <item value="purse" />
-      <item value="guarantee" />
-      <item value="resident" />
     </histories>
     <option name="languageScores">
       <map>
