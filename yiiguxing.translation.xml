@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="797" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="Origin" />
       <item value="原始&#10;" />
       <item value="temperature" />
       <item value="次&#10;" />
@@ -53,12 +54,11 @@
       <item value="completion" />
       <item value="演示&#10;" />
       <item value="演示" />
-      <item value="kevin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="703" />
-        <entry key="ENGLISH" value="704" />
+        <entry key="CHINESE" value="704" />
+        <entry key="ENGLISH" value="705" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
