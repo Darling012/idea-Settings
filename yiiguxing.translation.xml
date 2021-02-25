@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="574" />
+    <option name="newTranslationDialogWidth" value="572" />
     <option name="newTranslationDialogX" value="797" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="原始&#10;" />
       <item value="temperature" />
       <item value="次&#10;" />
       <item value="次数&#10;" />
@@ -53,7 +54,6 @@
       <item value="演示&#10;" />
       <item value="演示" />
       <item value="kevin" />
-      <item value="Represents a function that routes to a {@linkplain HandlerFunction handler function}. @author Arjen Poutsma @since 5.0 @param &lt;T&gt; the type of the {@linkplain HandlerFunction handler function} to route to @see RouterFun" />
     </histories>
     <option name="languageScores">
       <map>
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1613728095172" />
+    <option name="lastTrimTime" value="1614222052892" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
