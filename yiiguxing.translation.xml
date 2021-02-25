@@ -93,5 +93,6 @@
     <option name="phoneticFontFamily" value="Arial" />
     <option name="primaryFontFamily" value="Microsoft YaHei" />
     <option name="showWordsOnStartup" value="true" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
