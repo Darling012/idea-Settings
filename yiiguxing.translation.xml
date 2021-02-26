@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="572" />
+    <option name="newTranslationDialogWidth" value="570" />
     <option name="newTranslationDialogX" value="797" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="范围&#10;" />
+      <item value="泛微" />
       <item value="Minutes" />
       <item value="Parameter 2 of constructor in com.deepblue.fire.media.service.impl.MediaServiceImpl required a bean of type 'java.lang.Long' that could not be found." />
       <item value="Origin" />
@@ -52,8 +54,6 @@
       <item value="To push into this reference you need 'Push' rights" />
       <item value="operation" />
       <item value="perform" />
-      <item value="Transfer" />
-      <item value="completion" />
     </histories>
     <option name="languageScores">
       <map>
