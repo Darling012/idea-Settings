@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="797" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="level" />
+      <item value="leave" />
+      <item value="le" />
+      <item value="lev" />
+      <item value="leve" />
+      <item value="l" />
+      <item value="等级" />
+      <item value="Leave" />
       <item value="通用" />
       <item value="Tenant" />
       <item value="完成&#10;&#10;&#10;" />
@@ -46,19 +54,11 @@
       <item value="s" />
       <item value="granter" />
       <item value="Could not resolve placeholder" />
-      <item value="actually" />
-      <item value="transport&#10;" />
-      <item value="Enhancer" />
-      <item value="An attempt was made to call the method kotlin.collections.ArraysKt.copyInto([B[BIII)[B but it does not exist. Its class, kotlin.collections.ArraysKt, is available from the following locations:" />
-      <item value="exclusions" />
-      <item value="Correct the classpath of your application so that it contains a single, compatible version of kotlin.collections.ArraysKt" />
-      <item value="neo&#10;" />
-      <item value="neo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="709" />
-        <entry key="ENGLISH" value="710" />
+        <entry key="CHINESE" value="711" />
+        <entry key="ENGLISH" value="712" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
