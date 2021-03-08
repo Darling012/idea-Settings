@@ -3,6 +3,7 @@
     <option name="profile">
       <Profile>
         <option name="autoMergeJavaModel" value="false" />
+        <option name="generateWithIfTest" value="true" />
         <option name="useActualParamNames" value="true" />
         <option name="usejava8LocalDateTimeEct" value="true" />
         <option name="userMacSet">
