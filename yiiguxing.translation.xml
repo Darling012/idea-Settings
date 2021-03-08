@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="797" />
     <option name="newTranslationDialogY" value="392" />
     <histories>
+      <item value="Prepare" />
       <item value="group" />
       <item value="聚合&#10;" />
       <item value="聚合" />
@@ -54,12 +55,11 @@
       <item value="Rate" />
       <item value="垂直&#10;" />
       <item value="横" />
-      <item value="横着" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="714" />
-        <entry key="ENGLISH" value="715" />
+        <entry key="CHINESE" value="715" />
+        <entry key="ENGLISH" value="716" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -94,6 +94,5 @@
     <option name="phoneticFontFamily" value="Arial" />
     <option name="primaryFontFamily" value="Microsoft YaHei" />
     <option name="showWordsOnStartup" value="true" />
-    <option name="translateDocumentation" value="true" />
   </component>
 </application>
