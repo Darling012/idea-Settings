@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="797" />
     <option name="newTranslationDialogY" value="392" />
     <histories>
+      <item value="cancel" />
       <item value="Epoch" />
       <item value="Prepare" />
       <item value="group" />
@@ -54,12 +55,11 @@
       <item value="Three" />
       <item value="Recent" />
       <item value="Rate" />
-      <item value="垂直&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="716" />
-        <entry key="ENGLISH" value="717" />
+        <entry key="CHINESE" value="717" />
+        <entry key="ENGLISH" value="718" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
