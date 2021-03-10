@@ -1270,7 +1270,7 @@
   </component>
   <component name="NodeRendererSettings">
     <CustomRenderers VERSION="8">
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="org.springframework.boot.SpringApplication" />
         <Renderer ID="EnumerationChildrenRenderer" role="children">
@@ -1282,6 +1282,10 @@
         </Renderer>
       </Renderer>
     </CustomRenderers>
+  </component>
+  <component name="ThreadsViewSettings">
+    <option name="SHOW_THREAD_GROUPS" value="true" />
+    <option name="SHOW_ARGUMENTS_TYPES" value="true" />
   </component>
   <component name="XDebuggerSettings">
     <data-views />
@@ -1295,11 +1299,6 @@
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
-        </configuration>
-      </debugger>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="filterForStdlibAlreadyAdded" value="true" />
         </configuration>
       </debugger>
     </debuggers>
