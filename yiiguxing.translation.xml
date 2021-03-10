@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="797" />
     <option name="newTranslationDialogY" value="392" />
     <histories>
+      <item value="Minutes" />
+      <item value="plus" />
       <item value="cancel" />
       <item value="Epoch" />
       <item value="Prepare" />
@@ -32,7 +34,6 @@
       <item value="EXPIRE" />
       <item value="范围&#10;" />
       <item value="泛微" />
-      <item value="Minutes" />
       <item value="Parameter 2 of constructor in com.deepblue.fire.media.service.impl.MediaServiceImpl required a bean of type 'java.lang.Long' that could not be found." />
       <item value="Origin" />
       <item value="原始&#10;" />
@@ -54,19 +55,18 @@
       <item value="expire" />
       <item value="Three" />
       <item value="Recent" />
-      <item value="Rate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="717" />
-        <entry key="ENGLISH" value="718" />
+        <entry key="CHINESE" value="718" />
+        <entry key="ENGLISH" value="719" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
-        <entry key="FRENCH" value="7" />
+        <entry key="FRENCH" value="8" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="HAITIAN_CREOLE" value="1" />
@@ -94,5 +94,6 @@
     <option name="phoneticFontFamily" value="Arial" />
     <option name="primaryFontFamily" value="Microsoft YaHei" />
     <option name="showWordsOnStartup" value="true" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
