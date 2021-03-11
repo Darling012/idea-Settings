@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="562" />
+    <option name="newTranslationDialogWidth" value="560" />
     <option name="newTranslationDialogX" value="797" />
     <option name="newTranslationDialogY" value="392" />
     <histories>
+      <item value="取消" />
       <item value="anderson&#10;" />
       <item value="anderson" />
       <item value="Minutes" />
@@ -54,7 +55,6 @@
       <item value="incorrect" />
       <item value="inco " />
       <item value="inco" />
-      <item value="expire" />
     </histories>
     <option name="languageScores">
       <map>
