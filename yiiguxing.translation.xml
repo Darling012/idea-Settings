@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="797" />
     <option name="newTranslationDialogY" value="392" />
     <histories>
+      <item value="消费者&#10;" />
       <item value="Signleton" />
       <item value="observed" />
       <item value="取消" />
@@ -54,7 +55,6 @@
       <item value="阈值&#10;" />
       <item value="温度" />
       <item value="specified" />
-      <item value="incorrect" />
     </histories>
     <option name="languageScores">
       <map>
