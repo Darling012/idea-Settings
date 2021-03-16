@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="560" />
-    <option name="newTranslationDialogX" value="797" />
-    <option name="newTranslationDialogY" value="392" />
+    <option name="newTranslationDialogWidth" value="558" />
+    <option name="newTranslationDialogX" value="72" />
+    <option name="newTranslationDialogY" value="183" />
     <histories>
+      <item value="UNDERFLOW" />
       <item value="Error was received while reading the incoming data. The connection will be closed" />
       <item value="消费者&#10;" />
       <item value="Signleton" />
@@ -54,7 +55,6 @@
       <item value="Threshold&#10;&#10;" />
       <item value="阈值&#10;&#10;" />
       <item value="阈值&#10;" />
-      <item value="温度" />
     </histories>
     <option name="languageScores">
       <map>
