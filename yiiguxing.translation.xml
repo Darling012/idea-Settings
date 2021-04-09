@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="72" />
     <option name="newTranslationDialogY" value="183" />
     <histories>
+      <item value="Nanos" />
       <item value="Statics" />
       <item value="An API incompatibility was encountered" />
       <item value="Immutable" />
@@ -54,11 +55,10 @@
       <item value="次&#10;" />
       <item value="次数&#10;" />
       <item value="polymerization" />
-      <item value="启用停用" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="727" />
+        <entry key="CHINESE" value="728" />
         <entry key="ENGLISH" value="728" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
@@ -73,6 +73,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="SLOVENIAN" value="1" />
         <entry key="UZBEK" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="1" />
@@ -81,7 +82,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615771154702" />
+    <option name="lastTrimTime" value="1617934531660" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
