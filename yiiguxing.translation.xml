@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="599" />
-    <option name="newTranslationDialogWidth" value="937" />
+    <option name="newTranslationDialogWidth" value="935" />
     <option name="newTranslationDialogX" value="702" />
-    <option name="newTranslationDialogY" value="328" />
+    <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="Month" />
+      <item value="趋势&#10;" />
       <item value="(HTTP code 500) server error - Ports are not available: listen tcp 0.0.0.0:1883: bind: An attempt was made to access a socket in a way forbidden by its access permissions." />
       <item value="option" />
       <item value="op" />
@@ -54,8 +56,6 @@
       <item value="Tenant" />
       <item value="完成&#10;&#10;&#10;" />
       <item value="完成&#10;&#10;" />
-      <item value="完成&#10;" />
-      <item value="wanchegn" />
     </histories>
     <option name="languageScores">
       <map>
@@ -83,7 +83,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618381266630" />
+    <option name="lastTrimTime" value="1618900749054" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
