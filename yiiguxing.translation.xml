@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="702" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="no such" />
+      <item value="no su" />
       <item value="动态&#10;" />
       <item value="Month" />
       <item value="趋势&#10;" />
@@ -54,8 +56,6 @@
       <item value="等级" />
       <item value="Leave" />
       <item value="通用" />
-      <item value="Tenant" />
-      <item value="完成&#10;&#10;&#10;" />
     </histories>
     <option name="languageScores">
       <map>
