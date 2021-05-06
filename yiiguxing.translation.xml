@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="702" />
     <option name="newTranslationDialogY" value="188" />
     <histories>
+      <item value="terminated" />
+      <item value="heat" />
+      <item value="it's really frustrating!" />
       <item value="thumb" />
       <item value="Verified&#9;" />
       <item value="no such" />
@@ -53,9 +56,6 @@
       <item value="leave" />
       <item value="le" />
       <item value="lev" />
-      <item value="leve" />
-      <item value="l" />
-      <item value="等级" />
     </histories>
     <option name="languageScores">
       <map>
@@ -83,7 +83,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619339384138" />
+    <option name="lastTrimTime" value="1620265003527" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
