@@ -2,10 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="588" />
-    <option name="newTranslationDialogWidth" value="919" />
+    <option name="newTranslationDialogWidth" value="915" />
     <option name="newTranslationDialogX" value="702" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="evaluate" />
+      <item value="assess" />
+      <item value="评估&#10;" />
+      <item value="评估" />
       <item value="physiology" />
       <item value="生理" />
       <item value="生理&#10;" />
@@ -52,15 +56,11 @@
       <item value="observed" />
       <item value="取消" />
       <item value="anderson&#10;" />
-      <item value="anderson" />
-      <item value="Minutes" />
-      <item value="plus" />
-      <item value="cancel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="781" />
-        <entry key="ENGLISH" value="781" />
+        <entry key="CHINESE" value="794" />
+        <entry key="ENGLISH" value="794" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
