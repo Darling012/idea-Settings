@@ -6,11 +6,11 @@
     <option name="newTranslationDialogX" value="702" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="evaluate" />
       <item value="polly" />
       <item value="dispatch" />
       <item value="dispa" />
       <item value="分派&#10;" />
-      <item value="evaluate" />
       <item value="assess" />
       <item value="评估&#10;" />
       <item value="评估" />
@@ -60,7 +60,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="802" />
-        <entry key="ENGLISH" value="800" />
+        <entry key="ENGLISH" value="801" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
