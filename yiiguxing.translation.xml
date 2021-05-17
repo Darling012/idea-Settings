@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="583" />
-    <option name="newTranslationDialogWidth" value="913" />
+    <option name="newTranslationDialogWidth" value="911" />
     <option name="newTranslationDialogX" value="702" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="文章&#10;" />
       <item value="evaluate" />
       <item value="polly" />
       <item value="dispatch" />
@@ -55,12 +56,11 @@
       <item value="Original" />
       <item value="UNDERFLOW" />
       <item value="Error was received while reading the incoming data. The connection will be closed" />
-      <item value="消费者&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="802" />
-        <entry key="ENGLISH" value="801" />
+        <entry key="CHINESE" value="811" />
+        <entry key="ENGLISH" value="810" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -83,7 +83,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620719339824" />
+    <option name="lastTrimTime" value="1621229565025" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
