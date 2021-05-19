@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="702" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="Examine" />
       <item value="转发&#10;" />
       <item value="转发" />
       <item value="PASS" />
@@ -55,12 +56,11 @@
       <item value="稳定" />
       <item value="stable" />
       <item value="stabel" />
-      <item value="Alogrithm" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="828" />
-        <entry key="ENGLISH" value="829" />
+        <entry key="CHINESE" value="829" />
+        <entry key="ENGLISH" value="830" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
