@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="583" />
-    <option name="newTranslationDialogWidth" value="905" />
+    <option name="newTranslationDialogWidth" value="903" />
     <option name="newTranslationDialogX" value="643" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="内容&#10;" />
       <item value="mailbox" />
       <item value="mail Box" />
       <item value="mailbox&#10;" />
@@ -55,12 +56,11 @@
       <item value="option" />
       <item value="op" />
       <item value="experiment" />
-      <item value="experimetn" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="831" />
-        <entry key="ENGLISH" value="832" />
+        <entry key="CHINESE" value="839" />
+        <entry key="ENGLISH" value="840" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
