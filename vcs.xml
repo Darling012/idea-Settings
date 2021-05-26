@@ -586,9 +586,13 @@
           <option name="url" value="git@gitee.com:binary/weixin-java-miniapp-demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitee.com:459122037/yun-park.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="H:\openSource\WxJava" />
+    <option name="cloneParentDir" value="H:\openSource" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
