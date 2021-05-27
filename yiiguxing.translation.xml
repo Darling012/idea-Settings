@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="643" />
     <option name="newTranslationDialogY" value="164" />
     <histories>
+      <item value="Serializer" />
       <item value="Views" />
       <item value="访问量" />
       <item value="Error while extracting response for type [com.deepblue.core.util.R&lt;com.deepblue.admin.api.entity.SysUserCopier&gt;] and content type [application/json]; nested exception is org.springframework.http.converter.HttpMessageNotReadableException: Invalid JSON input: Cannot deserialize value of type `java.time.LocalDateTime` from String \&quot;2021-05-24 10:31:33\&quot;: Failed to deserialize java.time.LocalDateTime: (java.time.format.DateTimeParseException) Text '2021-05-24 10:31:33' could not be parsed at index 10; nested exception is com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `java.time.LocalDateTime` from String \&quot;2021-05-24 10:31:33\&quot;: Failed to deserialize java.time.LocalDateTime: (java.time.format.DateTimeParseException) Text '2021-05-24 10:31:33' could not be parsed at index 10\n at [Source: (PushbackInputStream); line: 1, column: 1151] (through reference chain: com.deepblue.core.util.R[\&quot;data\&quot;]-&gt;com.deepblue.admin.api.entity.SysUserCopier[\&quot;lastLoginTime\&quot;])" />
@@ -55,12 +56,11 @@
       <item value="it's really frustrating!" />
       <item value="thumb" />
       <item value="Verified&#9;" />
-      <item value="no such" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="857" />
-        <entry key="ENGLISH" value="854" />
+        <entry key="ENGLISH" value="855" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
