@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="2205" />
     <option name="newTranslationDialogY" value="206" />
     <histories>
+      <item value="Algorithm" />
       <item value="Epoch Second" />
       <item value="班组&#10;" />
       <item value="Schema" />
@@ -55,12 +56,11 @@
       <item value="分派&#10;" />
       <item value="assess" />
       <item value="评估" />
-      <item value="physiology" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="892" />
-        <entry key="ENGLISH" value="888" />
+        <entry key="ENGLISH" value="889" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
