@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="2205" />
     <option name="newTranslationDialogY" value="206" />
     <histories>
+      <item value="Epoch Second" />
       <item value="班组&#10;" />
       <item value="Schema" />
       <item value="volume" />
@@ -55,12 +56,11 @@
       <item value="assess" />
       <item value="评估" />
       <item value="physiology" />
-      <item value="生理" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="892" />
-        <entry key="ENGLISH" value="887" />
+        <entry key="ENGLISH" value="888" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -83,7 +83,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623912021640" />
+    <option name="lastTrimTime" value="1624514584045" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
