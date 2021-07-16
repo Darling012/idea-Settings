@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="206" />
     <histories>
       <item value="credentials" />
+      <item value="principal" />
       <item value="MessagePack is an efficient binary serialization format. It lets you exchange data among multiple languages like JSON. But it's faster and smaller. Small integers are encoded into a single byte, and typical short strings require only one extra byte in addition to the strings themselves." />
       <item value="Trend" />
       <item value="Give BeanPostProcessors a chance to return a proxy instead of the target bean instance" />
@@ -55,12 +56,11 @@
       <item value="p" />
       <item value="i neek a doctor remix eminem&amp;east" />
       <item value="文章&#10;" />
-      <item value="evaluate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="893" />
-        <entry key="ENGLISH" value="894" />
+        <entry key="CHINESE" value="895" />
+        <entry key="ENGLISH" value="896" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
