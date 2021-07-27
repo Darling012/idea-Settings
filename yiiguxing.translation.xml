@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="583" />
-    <option name="newTranslationDialogWidth" value="881" />
+    <option name="newTranslationDialogWidth" value="879" />
     <option name="newTranslationDialogX" value="2205" />
     <option name="newTranslationDialogY" value="206" />
     <histories>
+      <item value="full" />
       <item value="Insecure" />
       <item value="phase" />
       <item value="executions" />
@@ -55,12 +56,11 @@
       <item value="TURN" />
       <item value="CANCEL" />
       <item value="CANCLE" />
-      <item value="评估&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="900" />
-        <entry key="ENGLISH" value="900" />
+        <entry key="CHINESE" value="905" />
+        <entry key="ENGLISH" value="904" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
