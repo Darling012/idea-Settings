@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="2205" />
     <option name="newTranslationDialogY" value="206" />
     <histories>
+      <item value="If python is on the left-most side of the chain, that's the version you've asked for.&#10;When python appears to the right, that indicates that the thing on the left is somehow&#10;not available for the python version you are constrained to. Note that conda will not&#10;change your python version to a different minor version unless you explicitly specify&#10;that." />
+      <item value="Specifications" />
       <item value="full" />
       <item value="Insecure" />
       <item value="phase" />
@@ -54,12 +56,10 @@
       <item value="PASS" />
       <item value="REFUSE" />
       <item value="TURN" />
-      <item value="CANCEL" />
-      <item value="CANCLE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="905" />
+        <entry key="CHINESE" value="907" />
         <entry key="ENGLISH" value="904" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
@@ -83,7 +83,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627007779792" />
+    <option name="lastTrimTime" value="1627543187356" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />

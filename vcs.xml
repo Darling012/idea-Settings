@@ -598,6 +598,10 @@
           <option name="url" value="git@gitee.com:XYW1171736840/spring-file-storage.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/keithweaver/python-aws-s3.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="H:\openSource" />
