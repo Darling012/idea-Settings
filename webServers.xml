@@ -2,19 +2,17 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="37a1deaa-be39-4ee4-b168-19268c2425b9" name="物联云" url="http://10.10.50.134">
-        <fileTransfer host="10.10.50.134" port="22" accessType="SFTP">
+        <fileTransfer accessType="SFTP" sshConfigId="3b2b536a-2a8b-4a14-bbdb-858192e8235c" sshConfig="物联云">
           <advancedOptions>
             <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="844ba34f-cae2-4395-99e7-e7216a14986f" name="槐荫" url="http://49.4.89.241">
-        <fileTransfer host="49.4.89.241" port="39999" accessType="SFTP">
+        <fileTransfer accessType="SFTP" sshConfigId="915007f2-f2db-4985-aa9b-bbbc95bd5145" sshConfig="槐荫">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="39999" />
         </fileTransfer>
       </webServer>
     </option>
