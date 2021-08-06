@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="638" />
     <option name="newTranslationDialogY" value="133" />
     <histories>
+      <item value="Enhancer" />
       <item value="SECONDS" />
       <item value="device" />
       <item value="设备&#10;" />
@@ -55,12 +56,11 @@
       <item value="health" />
       <item value="phealth" />
       <item value="dphealth" />
-      <item value="内容&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="939" />
-        <entry key="ENGLISH" value="938" />
+        <entry key="ENGLISH" value="939" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
