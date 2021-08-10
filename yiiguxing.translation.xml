@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="638" />
     <option name="newTranslationDialogY" value="133" />
     <histories>
+      <item value="invalid" />
       <item value="Enhancer" />
       <item value="SECONDS" />
       <item value="device" />
@@ -55,12 +56,11 @@
       <item value="extracting" />
       <item value="health" />
       <item value="phealth" />
-      <item value="dphealth" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="939" />
-        <entry key="ENGLISH" value="939" />
+        <entry key="ENGLISH" value="940" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -83,7 +83,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628056829563" />
+    <option name="lastTrimTime" value="1628589700480" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
