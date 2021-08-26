@@ -1,6 +1,7 @@
 <application>
   <component name="CodeInsightSettings">
     <option name="completionCaseSensitive" value="2" />
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="REFORMAT_ON_PASTE" value="1" />
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
@@ -47,5 +48,8 @@
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
 </application>
