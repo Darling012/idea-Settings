@@ -606,6 +606,10 @@
           <option name="url" value="https://github.com/wangzhiwubigdata/quickstart.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/alain898/realtime_stream_computing_course.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="H:\bigData" />
