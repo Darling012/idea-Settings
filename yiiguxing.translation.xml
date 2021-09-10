@@ -2,10 +2,17 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="579" />
-    <option name="newTranslationDialogWidth" value="863" />
+    <option name="newTranslationDialogWidth" value="861" />
     <option name="newTranslationDialogX" value="901" />
-    <option name="newTranslationDialogY" value="213" />
+    <option name="newTranslationDialogY" value="208" />
     <histories>
+      <item value="reference" />
+      <item value="reeference" />
+      <item value="Reference" />
+      <item value="refence&#10;" />
+      <item value="refen&#10;" />
+      <item value="引用&#10;" />
+      <item value="引用" />
       <item value="proxy" />
       <item value="代理&#10;" />
       <item value="expert&#10;" />
@@ -49,18 +56,11 @@
       <item value="volumne" />
       <item value="mount&#10;" />
       <item value="mount" />
-      <item value="路径" />
-      <item value="actor&#10;" />
-      <item value="Unrecognized&#10;" />
-      <item value="处理&#10;" />
-      <item value="c" />
-      <item value="Second" />
-      <item value="Analysis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="951" />
-        <entry key="ENGLISH" value="949" />
+        <entry key="CHINESE" value="960" />
+        <entry key="ENGLISH" value="958" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
