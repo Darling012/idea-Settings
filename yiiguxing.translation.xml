@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="579" />
-    <option name="newTranslationDialogWidth" value="859" />
+    <option name="newTranslationDialogWidth" value="857" />
     <option name="newTranslationDialogX" value="901" />
     <option name="newTranslationDialogY" value="208" />
     <histories>
+      <item value="bingo&#10;" />
+      <item value="bingo" />
       <item value="Could not acquire image ID or digest following build" />
       <item value="reference" />
       <item value="reeference" />
@@ -54,12 +56,10 @@
       <item value="班组&#10;" />
       <item value="Schema" />
       <item value="volume" />
-      <item value="volumne" />
-      <item value="mount&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="961" />
+        <entry key="CHINESE" value="962" />
         <entry key="ENGLISH" value="958" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
