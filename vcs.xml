@@ -610,9 +610,13 @@
           <option name="url" value="https://github.com/alain898/realtime_stream_computing_course.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/louyanfeng25/ddd-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="H:\bigData" />
+    <option name="cloneParentDir" value="H:\openSource" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
