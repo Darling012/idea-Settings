@@ -3,6 +3,7 @@
     <option name="profile">
       <Profile>
         <option name="autoMergeJavaModel" value="false" />
+        <option name="generateWithIfTest" value="true" />
         <option name="theUsageCount" value="1634526434067" />
         <option name="useActualParamNames" value="true" />
         <option name="usejava8LocalDateTimeEct" value="true" />
