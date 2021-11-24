@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="901" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="phase" />
       <item value="阈值" />
       <item value="虚拟&#10;" />
       <item value="虚拟" />
@@ -55,11 +56,10 @@
       <item value="salary" />
       <item value="DRAFT" />
       <item value="tech&#10;" />
-      <item value="tech" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1056" />
+        <entry key="CHINESE" value="1057" />
         <entry key="ENGLISH" value="1052" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637286802316" />
+    <option name="lastTrimTime" value="1637721680636" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
