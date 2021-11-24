@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="901" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="Claim" />
       <item value="phase" />
       <item value="阈值" />
       <item value="虚拟&#10;" />
@@ -55,11 +56,10 @@
       <item value="ex" />
       <item value="salary" />
       <item value="DRAFT" />
-      <item value="tech&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1057" />
+        <entry key="CHINESE" value="1058" />
         <entry key="ENGLISH" value="1052" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
