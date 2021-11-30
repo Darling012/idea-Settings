@@ -2,15 +2,15 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="578" />
-    <option name="newTranslationDialogWidth" value="829" />
+    <option name="newTranslationDialogWidth" value="827" />
     <option name="newTranslationDialogX" value="901" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="虚拟" />
       <item value="Claim" />
       <item value="phase" />
       <item value="阈值" />
       <item value="虚拟&#10;" />
-      <item value="虚拟" />
       <item value="配置&#10;" />
       <item value="above&#10;" />
       <item value="above" />
@@ -59,8 +59,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1058" />
-        <entry key="ENGLISH" value="1052" />
+        <entry key="CHINESE" value="1062" />
+        <entry key="ENGLISH" value="1056" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637721680636" />
+    <option name="lastTrimTime" value="1638240980188" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
