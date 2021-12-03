@@ -1,7 +1,10 @@
 <application>
   <component name="GiteeAccounts">
-    <account id="fc47a8f9-d205-447a-a6fd-29c9db0bcf79" name="782775618@qq.com ">
+    <account name="782775618@qq.com " id="fc47a8f9-d205-447a-a6fd-29c9db0bcf79">
       <Server useHttp="false" host="gitee.com" clientid="fc439d90cb2ffc20cffeb70a6a4039e69847485e0fa56cfa0d1bf006098e24dd" clientsecret="386f187646ee361049f69cd213424bdba5af03e820d10a68a68e5fb520902596" />
+    </account>
+    <account name="darlingling" id="d46b1aca-978f-44a1-9409-167b52a1df06">
+      <Server host="gitee.com" clientid="fc439d90cb2ffc20cffeb70a6a4039e69847485e0fa56cfa0d1bf006098e24dd" clientsecret="386f187646ee361049f69cd213424bdba5af03e820d10a68a68e5fb520902596" />
     </account>
   </component>
 </application>
