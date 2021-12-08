@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="901" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="forge" />
       <item value="ancestry" />
       <item value="decrypt" />
       <item value="虚拟" />
@@ -55,12 +56,11 @@
       <item value="代理&#10;" />
       <item value="expert&#10;" />
       <item value="expert" />
-      <item value="ex" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1062" />
-        <entry key="ENGLISH" value="1058" />
+        <entry key="ENGLISH" value="1059" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
