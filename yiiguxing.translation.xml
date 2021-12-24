@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="0" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="authorized" />
+      <item value="Secured" />
       <item value="nearby" />
       <item value="explor" />
       <item value="explore" />
@@ -55,13 +57,11 @@
       <item value="负责人&#10;" />
       <item value="cow" />
       <item value="ox" />
-      <item value="牛" />
-      <item value="多反思" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1068" />
-        <entry key="ENGLISH" value="1067" />
+        <entry key="ENGLISH" value="1069" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
