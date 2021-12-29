@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="0" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Operations" />
       <item value="authorized" />
       <item value="Secured" />
       <item value="nearby" />
@@ -56,12 +57,11 @@
       <item value="principal&#10;" />
       <item value="负责人&#10;" />
       <item value="cow" />
-      <item value="ox" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1068" />
-        <entry key="ENGLISH" value="1069" />
+        <entry key="CHINESE" value="1069" />
+        <entry key="ENGLISH" value="1070" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1640229747294" />
+    <option name="lastTrimTime" value="1640760256694" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
