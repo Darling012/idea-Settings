@@ -2,11 +2,15 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="578" />
-    <option name="newTranslationDialogWidth" value="823" />
+    <option name="newTranslationDialogWidth" value="821" />
     <option name="newTranslationDialogX" value="901" />
     <option name="newTranslationDialogY" value="0" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="reference" />
+      <item value="refer" />
+      <item value="refre" />
+      <item value="re" />
       <item value="whitelisted" />
       <item value="no Creators, like default construct, exist" />
       <item value="Operations" />
@@ -53,15 +57,11 @@
       <item value="检测" />
       <item value="分析&#10;" />
       <item value="reason&#10;" />
-      <item value="rea&#10;son&#10;" />
-      <item value="reson&#10;" />
-      <item value="dispatch" />
-      <item value="principal&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1071" />
-        <entry key="ENGLISH" value="1072" />
+        <entry key="CHINESE" value="1073" />
+        <entry key="ENGLISH" value="1074" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1640760256694" />
+    <option name="lastTrimTime" value="1641260688469" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
