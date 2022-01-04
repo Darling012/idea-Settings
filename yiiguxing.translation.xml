@@ -2,11 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="578" />
-    <option name="newTranslationDialogWidth" value="821" />
+    <option name="newTranslationDialogWidth" value="819" />
     <option name="newTranslationDialogX" value="901" />
     <option name="newTranslationDialogY" value="0" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="多个" />
+      <item value="muti" />
+      <item value="mutil" />
       <item value="reference" />
       <item value="refer" />
       <item value="refre" />
@@ -54,14 +57,11 @@
       <item value="Physical&#10;" />
       <item value="体检&#10;" />
       <item value="检测&#10;" />
-      <item value="检测" />
-      <item value="分析&#10;" />
-      <item value="reason&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1073" />
-        <entry key="ENGLISH" value="1074" />
+        <entry key="CHINESE" value="1080" />
+        <entry key="ENGLISH" value="1081" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
