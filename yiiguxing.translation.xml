@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="0" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Directly" />
       <item value="多个" />
       <item value="muti" />
       <item value="mutil" />
@@ -56,12 +57,11 @@
       <item value="Inflammation&#10;" />
       <item value="Physical&#10;" />
       <item value="体检&#10;" />
-      <item value="检测&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1080" />
-        <entry key="ENGLISH" value="1081" />
+        <entry key="CHINESE" value="1081" />
+        <entry key="ENGLISH" value="1082" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
