@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="0" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="assuming" />
       <item value="Directly" />
       <item value="多个" />
       <item value="muti" />
@@ -56,12 +57,11 @@
       <item value="flame" />
       <item value="Inflammation&#10;" />
       <item value="Physical&#10;" />
-      <item value="体检&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1081" />
-        <entry key="ENGLISH" value="1082" />
+        <entry key="CHINESE" value="1082" />
+        <entry key="ENGLISH" value="1083" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641260688469" />
+    <option name="lastTrimTime" value="1641893440788" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
