@@ -7,12 +7,12 @@
     <option name="newTranslationDialogY" value="0" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="principle" />
       <item value="Multiset" />
       <item value="An object which joins pieces of text (specified as an array, Iterable, varargs or even a Map) with a separator. It either appends the results to an Appendable or returns them as a String" />
       <item value="practice" />
       <item value="实践" />
       <item value="learn" />
-      <item value="principle" />
       <item value="assuming" />
       <item value="Directly" />
       <item value="多个" />
@@ -60,8 +60,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1093" />
-        <entry key="ENGLISH" value="1094" />
+        <entry key="CHINESE" value="1094" />
+        <entry key="ENGLISH" value="1095" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
