@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="0" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="excludes" />
       <item value="retrieve" />
       <item value="横轴" />
       <item value="相关" />
@@ -56,12 +57,11 @@
       <item value="above&#10;" />
       <item value="above" />
       <item value="locate" />
-      <item value="前缀" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1113" />
-        <entry key="ENGLISH" value="1114" />
+        <entry key="CHINESE" value="1114" />
+        <entry key="ENGLISH" value="1115" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641893440788" />
+    <option name="lastTrimTime" value="1642407877072" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
