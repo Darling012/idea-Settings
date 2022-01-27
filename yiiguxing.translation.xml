@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="0" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Assignable From" />
+      <item value="Assignable" />
       <item value="Discovers @ExceptionHandler methods in a given class, including all of its superclasses, and helps to resolve a given Exception to the exception types supported by a given Method." />
       <item value="via" />
       <item value="注解&#10;" />
@@ -55,13 +57,11 @@
       <item value="虚拟" />
       <item value="Claim" />
       <item value="phase" />
-      <item value="阈值" />
-      <item value="虚拟&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1123" />
-        <entry key="ENGLISH" value="1124" />
+        <entry key="CHINESE" value="1125" />
+        <entry key="ENGLISH" value="1126" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
