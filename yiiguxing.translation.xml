@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="0" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Discovers @ExceptionHandler methods in a given class, including all of its superclasses, and helps to resolve a given Exception to the exception types supported by a given Method." />
       <item value="via" />
       <item value="注解&#10;" />
       <item value="注解" />
@@ -56,12 +57,11 @@
       <item value="phase" />
       <item value="阈值" />
       <item value="虚拟&#10;" />
-      <item value="配置&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1122" />
-        <entry key="ENGLISH" value="1123" />
+        <entry key="CHINESE" value="1123" />
+        <entry key="ENGLISH" value="1124" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1642407877072" />
+    <option name="lastTrimTime" value="1643271004192" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
