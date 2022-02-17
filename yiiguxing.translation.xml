@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="0" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="reference" />
       <item value="is Assignable From" />
       <item value="Assignable" />
       <item value="Discovers @ExceptionHandler methods in a given class, including all of its superclasses, and helps to resolve a given Exception to the exception types supported by a given Method." />
@@ -28,7 +29,6 @@
       <item value="多个" />
       <item value="muti" />
       <item value="mutil" />
-      <item value="reference" />
       <item value="refer" />
       <item value="refre" />
       <item value="re" />
@@ -60,7 +60,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1125" />
+        <entry key="CHINESE" value="1126" />
         <entry key="ENGLISH" value="1126" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
