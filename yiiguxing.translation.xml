@@ -2,11 +2,15 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="578" />
-    <option name="newTranslationDialogWidth" value="807" />
+    <option name="newTranslationDialogWidth" value="805" />
     <option name="newTranslationDialogX" value="901" />
     <option name="newTranslationDialogY" value="0" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="率" />
+      <item value="lv" />
+      <item value="正确" />
+      <item value="失误" />
       <item value="required" />
       <item value="re" />
       <item value="Provided" />
@@ -53,15 +57,11 @@
       <item value="nearby" />
       <item value="explor" />
       <item value="explore" />
-      <item value="ex" />
-      <item value="memories" />
-      <item value="me" />
-      <item value="albums" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1178" />
-        <entry key="ENGLISH" value="1177" />
+        <entry key="CHINESE" value="1196" />
+        <entry key="ENGLISH" value="1195" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
