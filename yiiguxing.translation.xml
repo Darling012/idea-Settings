@@ -2,11 +2,15 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="578" />
-    <option name="newTranslationDialogWidth" value="811" />
+    <option name="newTranslationDialogWidth" value="807" />
     <option name="newTranslationDialogX" value="901" />
     <option name="newTranslationDialogY" value="0" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="required" />
+      <item value="re" />
+      <item value="Provided" />
+      <item value="Required type:&#10;Map&#10;&lt;String,&#10;Map&lt;String, Long&gt;&gt;&#10;Provided:&#10;Map&#10;&lt;String,&#10;Map&lt;Integer, Long&gt;&gt;&#10;no instance(s) of type variable(s) exist so that Integer conforms to String inference variable K has incompatible bounds: equality constraints: String lower bounds: Integer" />
       <item value="汇总" />
       <item value="Absent" />
       <item value="Prohibition of full table deletion" />
@@ -41,7 +45,6 @@
       <item value="mutil" />
       <item value="refer" />
       <item value="refre" />
-      <item value="re" />
       <item value="whitelisted" />
       <item value="no Creators, like default construct, exist" />
       <item value="Operations" />
@@ -54,14 +57,11 @@
       <item value="memories" />
       <item value="me" />
       <item value="albums" />
-      <item value="al" />
-      <item value="fal" />
-      <item value="f" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1174" />
-        <entry key="ENGLISH" value="1175" />
+        <entry key="CHINESE" value="1178" />
+        <entry key="ENGLISH" value="1177" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
