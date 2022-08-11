@@ -1,32 +1,38 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="AlarmExpireMappre.xml" type="AUTO_DETECTED" />
-      <mapping pattern="AlarmInfo.xml" type="AUTO_DETECTED" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="xmind" type="Native" />
-      <mapping pattern="FETCH_HEAD" type="PLAIN_TEXT" />
-      <mapping pattern="DashboardErrorCode.properties" type="PLAIN_TEXT" />
-      <mapping pattern="data" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="jhtml" type="PLAIN_TEXT" />
-      <mapping ext="out" type="PLAIN_TEXT" />
-      <mapping ext="dmp" type="PLAIN_TEXT" />
-      <mapping ext="jks" type="PLAIN_TEXT" />
-      <mapping pattern="pom" type="XML" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="json" approved="true" type="JSON" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="xmind" type="Native" />
+      <mapping pattern="DashboardErrorCode.properties" type="PLAIN_TEXT" />
+      <mapping pattern="data" type="PLAIN_TEXT" />
+      <mapping pattern="FETCH_HEAD" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="dmp" type="PLAIN_TEXT" />
+      <mapping ext="jhtml" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <removed_mapping ext="xml" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="pom" type="XML" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="xml" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="json" approved="true" type="JSON" />
+      <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="yaml" approved="true" type="YAML" />
+      <mapping pattern="AlarmExpireMappre.xml" type="AUTO_DETECTED" />
+      <mapping pattern="AlarmInfo.xml" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
