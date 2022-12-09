@@ -1,9 +1,21 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="10.10.50.134" id="3b2b536a-2a8b-4a14-bbdb-858192e8235c" port="22" customName="物联云" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="49.4.89.241" id="915007f2-f2db-4985-aa9b-bbbc95bd5145" port="39999" customName="槐荫" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="49.4.89.241" id="db8bdba7-075f-47b3-9a24-e8d9d500cee2" port="39999" customName="槐荫" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="10.10.50.134" id="3b2b536a-2a8b-4a14-bbdb-858192e8235c" port="22" customName="物联云" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="物联云" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="49.4.89.241" id="915007f2-f2db-4985-aa9b-bbbc95bd5145" port="39999" customName="槐荫" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="槐荫" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="49.4.89.241" id="db8bdba7-075f-47b3-9a24-e8d9d500cee2" port="39999" customName="槐荫" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="槐荫" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.10.50.134" id="75b1947f-7e03-4c32-b504-73fdd5888c3a" port="22" customName="物联云" nameFormat="CUSTOM" useOpenSSHConfig="true">
+        <option name="customName" value="物联云" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="49.4.89.241" id="3211c39c-9f3f-43b6-a475-5a6c67dc3c94" port="39999" customName="槐荫" nameFormat="CUSTOM" useOpenSSHConfig="true">
+        <option name="customName" value="槐荫" />
+      </sshConfig>
     </configs>
   </component>
 </application>
