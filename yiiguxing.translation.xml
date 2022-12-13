@@ -96,4 +96,23 @@
     <option name="primaryFontFamily" value="Microsoft YaHei" />
     <option name="showWordsOnStartup" value="true" />
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1670916043448" />
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogHeight" value="256" />
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="484" />
+    <option name="newTranslationDialogY" value="453" />
+    <histories>
+      <item value="future" />
+      <item value="further" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="4" />
+      </map>
+    </option>
+  </component>
 </application>
