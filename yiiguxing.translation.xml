@@ -105,6 +105,8 @@
     <option name="newTranslationDialogX" value="484" />
     <option name="newTranslationDialogY" value="453" />
     <histories>
+      <item value="Redelivered" />
+      <item value="redelivered" />
       <item value="manual" />
       <item value="prohibited" />
       <item value="future" />
