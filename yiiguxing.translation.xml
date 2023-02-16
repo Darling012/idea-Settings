@@ -105,6 +105,7 @@
     <option name="newTranslationDialogX" value="484" />
     <option name="newTranslationDialogY" value="453" />
     <histories>
+      <item value="Unsatisfied" />
       <item value="Redelivered" />
       <item value="redelivered" />
       <item value="manual" />
