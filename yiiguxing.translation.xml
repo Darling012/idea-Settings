@@ -101,10 +101,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="484" />
     <option name="newTranslationDialogY" value="453" />
     <histories>
+      <item value="体验" />
       <item value="Unsatisfied" />
       <item value="Redelivered" />
       <item value="redelivered" />
@@ -115,8 +116,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
