@@ -105,6 +105,7 @@
     <option name="newTranslationDialogX" value="484" />
     <option name="newTranslationDialogY" value="453" />
     <histories>
+      <item value="discard long time none received connection" />
       <item value="体验" />
       <item value="Unsatisfied" />
       <item value="Redelivered" />
