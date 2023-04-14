@@ -97,7 +97,7 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1680748301418" />
+    <option name="lastTrimTime" value="1681440610888" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -105,10 +105,19 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="484" />
     <option name="newTranslationDialogY" value="453" />
     <histories>
+      <item value="leva" />
+      <item value="leval" />
+      <item value="leal" />
+      <item value="leavel" />
+      <item value="leave" />
+      <item value="lea" />
+      <item value="le'a" />
+      <item value="等级" />
+      <item value="Leave" />
       <item value="Note that double and float are not supported due to rounding errors (some providers might provide some approximative support" />
       <item value="approximative" />
       <item value="numeric" />
@@ -130,8 +139,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="35" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
