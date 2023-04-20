@@ -2,7 +2,7 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
-        <option name="expireNotifyDate" value="1681890642448" />
+        <option name="expireNotifyDate" value="1681968899947" />
         <option name="generateWithIfTest" value="true" />
         <option name="maxMeetContext" value="22" />
         <option name="useActualParamNames" value="true" />
