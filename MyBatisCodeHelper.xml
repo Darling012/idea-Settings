@@ -6,6 +6,7 @@
         <option name="generateWithIfTest" value="true" />
         <option name="maxMeetContext" value="22" />
         <option name="useActualParamNames" value="true" />
+        <option name="useFreeVersion" value="true" />
         <option name="usejava8LocalDateTimeEct" value="true" />
         <option name="userMacSet">
           <set>
