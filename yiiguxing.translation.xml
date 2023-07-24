@@ -97,7 +97,7 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1686033887687" />
+    <option name="lastTrimTime" value="1690164741497" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -105,10 +105,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="484" />
     <option name="newTranslationDialogY" value="453" />
     <histories>
+      <item value="公告" />
+      <item value="announcement" />
       <item value="动态" />
       <item value="试用" />
       <item value="shi'yong" />
@@ -150,8 +152,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
-        <entry key="ENGLISH" value="84" />
+        <entry key="CHINESE" value="100" />
+        <entry key="ENGLISH" value="100" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
