@@ -122,6 +122,18 @@
           </option>
           <option name="projectName" value="springboot-realtime-data" />
         </HeaderGroup>
+        <HeaderGroup>
+          <option name="envDataMap">
+            <map>
+              <entry key="test">
+                <value>
+                  <list />
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="projectName" value="test" />
+        </HeaderGroup>
       </list>
     </option>
     <option name="randomStringLength" value="5" />
@@ -130,8 +142,8 @@
       <list>
         <YearStatistics>
           <option name="totalActionCount" value="4" />
-          <option name="totalRocketCount" value="2" />
-          <option name="totalSuccessCount" value="9" />
+          <option name="totalRocketCount" value="4" />
+          <option name="totalSuccessCount" value="12" />
           <option name="year" value="2023" />
         </YearStatistics>
       </list>
