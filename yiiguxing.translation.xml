@@ -97,7 +97,7 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1690164741497" />
+    <option name="lastTrimTime" value="1694500817371" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -109,6 +109,7 @@
     <option name="newTranslationDialogX" value="484" />
     <option name="newTranslationDialogY" value="453" />
     <histories>
+      <item value="Since more bytes may have arrived since the buffer was last filled, it is an option at this point to perform a non-blocking read. However correctly handling the case if that read returns end of stream adds complexity. Therefore, at the moment, the preference is for simplicity." />
       <item value="来源" />
       <item value="发布" />
       <item value="fa" />
@@ -156,7 +157,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="ENGLISH" value="114" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
